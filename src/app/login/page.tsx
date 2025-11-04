@@ -4,10 +4,10 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 
 // Image URLs
-const imgMetamaskLogoPng = "/Rectangle 227.png";
-const imgImage = "/Rectangle 227.png";
-const imgCoinbaseIconPng = "/Rectangle 227.png";
-const imgRabbyWalletIconJpeg = "/Rectangle 227.png";
+const imgMetamaskLogoPng = "/figma-exported/metamask_logo.png.png";
+const imgImage = "/figma-exported/WalletConnect.png";
+const imgCoinbaseIconPng = "/figma-exported/coinbase_icon.png.png";
+const imgRabbyWalletIconJpeg = "/figma-exported/rabby_wallet_icon.jpeg.png";
 const imgImgSqIrr7FzdlNjjEiG0SzAv2 = "/Rectangle 227.png";
 const imgLine7 = "/Vector.svg";
 const imgVector2 = "/Vector.svg";
