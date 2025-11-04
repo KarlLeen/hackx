@@ -177,12 +177,9 @@ export default function LearningCampsPage() {
                     {/* Camp Header */}
                     <div className="flex flex-col gap-2">
                       <div className="flex flex-wrap items-center gap-2">
-                        <Link 
-                          href={`/learning-camps/${camp.id}`}
-                          className="text-white text-base md:text-lg font-semibold hover:text-primary transition-colors cursor-pointer"
-                        >
+                        <h3 className="text-white text-base md:text-lg font-semibold">
                           {camp.title}
-                        </Link>
+                        </h3>
                         <div className={`${getStatusBgColor(camp.status)} rounded-2xl px-3 py-1`}>
                           <p className="text-white text-xs font-semibold">
                             {camp.status}
@@ -224,12 +221,15 @@ export default function LearningCampsPage() {
                     </div>
 
                     {/* Register Button */}
-                    <button className="bg-primary hover:bg-primary/90 text-white px-4 py-2.5 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base flex items-center justify-center gap-2 transition-colors w-fit">
+                    <Link 
+                      href={`/learning-camps/${camp.id}`}
+                      className="bg-primary hover:bg-primary/90 text-white px-4 py-2.5 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base flex items-center justify-center gap-2 transition-colors w-fit"
+                    >
                       <span>Register</span>
                       <div className="w-3.5 h-3.5 md:w-4 md:h-4 relative shrink-0">
                         <img alt="register icon" className="block w-full h-full" src={imgRegisterIcon} />
                       </div>
-                    </button>
+                    </Link>
                   </div>
 
                   {/* Camp Image */}
