@@ -101,7 +101,7 @@ export default function CommunityDetailPage({ params }: CommunityDetailPageProps
 
           {/* Content Area */}
           <div className="w-full flex justify-center">
-            <div className="w-full max-w-[1400px] px-4 md:px-6 lg:px-8 xl:px-12 py-6 md:py-8">
+            <div className="w-full max-w-[1100px] 2xl:max-w-[1300px] px-4 md:px-8 lg:px-12 xl:px-16 py-6 md:py-8">
               {/* About Community Section */}
               <div className="mb-8 md:mb-12">
                 <h2 className="text-white text-base md:text-lg font-semibold mb-4">

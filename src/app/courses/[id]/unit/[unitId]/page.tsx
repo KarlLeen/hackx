@@ -87,7 +87,7 @@ In this module, we'll explore the core concepts and technical innovations behind
 
         {/* Content Container */}
         <div className="flex-1 w-full flex justify-center relative pb-24 md:pb-28">
-          <div className="w-full max-w-[1400px] px-4 md:px-6 lg:px-8 xl:px-12 py-6 md:py-8 lg:py-10">
+          <div className="w-full max-w-[1100px] 2xl:max-w-[1300px] px-4 md:px-8 lg:px-12 xl:px-16 py-6 md:py-8 lg:py-10">
             {/* Top Bar - Title, Logo, Help, Close */}
             <div className="flex items-center justify-between mb-8 md:mb-12 relative">
               {/* Logo Container - Left */}
@@ -135,7 +135,7 @@ In this module, we'll explore the core concepts and technical innovations behind
 
         {/* Bottom Bar - Back and Continue */}
         <div className="fixed bottom-0 left-0 right-0 border-t border-border-dark bg-bg-dark z-40 md:pl-sidebar-sm lg:pl-sidebar">
-          <div className="w-full max-w-[1400px] mx-auto px-4 md:px-6 lg:px-8 xl:px-12 py-4 md:py-6">
+          <div className="w-full max-w-[1100px] 2xl:max-w-[1300px] mx-auto px-4 md:px-8 lg:px-12 xl:px-16 py-4 md:py-6">
             <div className="flex items-center justify-between">
               {/* Back Button - Left */}
               <Link

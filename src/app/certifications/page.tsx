@@ -117,7 +117,7 @@ export default function CertificationsPage() {
 
         {/* Content Container */}
         <div className="flex-1 w-full flex justify-center">
-          <div className="w-full max-w-[1400px] px-4 md:px-6 lg:px-8 xl:px-12 py-6 md:py-8 lg:py-10">
+          <div className="w-full max-w-[1100px] 2xl:max-w-[1300px] px-4 md:px-8 lg:px-12 xl:px-16 py-6 md:py-8 lg:py-10">
             {/* Page Title */}
             <h1 className="text-white text-2xl md:text-3xl lg:text-4xl font-semibold mb-8 md:mb-10">
               My Certifications

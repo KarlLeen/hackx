@@ -170,7 +170,7 @@ export default function CreateProjectPage() {
 
         {/* Content Container */}
         <div className="flex-1 w-full flex justify-center">
-          <div className="w-full max-w-[1400px] px-4 md:px-6 lg:px-8 xl:px-12 py-6 md:py-8 lg:py-10">
+          <div className="w-full max-w-[1100px] 2xl:max-w-[1300px] px-4 md:px-8 lg:px-12 xl:px-16 py-6 md:py-8 lg:py-10">
             {/* Top Actions */}
             <div className="flex items-center justify-between mb-6 md:mb-8">
               <Link href="/dashboard" className="flex items-center gap-2 text-white hover:text-primary transition-colors">
