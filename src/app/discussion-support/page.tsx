@@ -12,9 +12,6 @@ const imgVector2 = "/Vector.svg";
 const imgAthenaX = "/figma-exported/AthenaX.png";
 const imgMetaMask = "/figma-exported/MetaMask.png";
 const img0G = "/figma-exported/0G.png";
-const imgRectangle30 = "/figma-exported/Rectangle 30.png";
-const imgRectangle31 = "/figma-exported/Rectangle 31.png";
-const imgRectangle32 = "/figma-exported/Rectangle 32.png";
 // Icon - for buttons
 const imgIcon = "/Icon.svg";
 
@@ -27,36 +24,37 @@ interface Organization {
 }
 
 // Mock organizations data
+// First row: AthenaX, 0G, MetaMask
 const organizations: Organization[] = [
   {
     id: 1,
     name: 'AthenaX',
-    image: imgRectangle30,
+    image: imgAthenaX,
     description: 'All-in-One Web3 Data & Research Access in-depth blockchain data analytics and cryptocurrency insights.',
   },
   {
     id: 2,
-    name: 'AthenaX',
-    image: imgRectangle31,
-    description: 'All-in-One Web3 Data & Research Access in-depth blockchain data analytics and cryptocurrency insights.',
+    name: '0G',
+    image: img0G,
+    description: 'Comprehensive blockchain monitoring tools for security audits and performance assessments.',
   },
   {
     id: 3,
     name: 'MetaMask',
-    image: imgRectangle32,
+    image: imgMetaMask,
     description: 'Advanced trading algorithms and real-time market analysis for cryptocurrency investors.',
   },
   {
     id: 4,
-    name: 'MetaMask',
-    image: imgRectangle32,
-    description: 'Advanced trading algorithms and real-time market analysis for cryptocurrency investors.',
+    name: 'AthenaX',
+    image: imgAthenaX,
+    description: 'All-in-One Web3 Data & Research Access in-depth blockchain data analytics and cryptocurrency insights.',
   },
   {
     id: 5,
-    name: '0G',
-    image: img0G,
-    description: 'Comprehensive blockchain monitoring tools for security audits and performance assessments.',
+    name: 'MetaMask',
+    image: imgMetaMask,
+    description: 'Advanced trading algorithms and real-time market analysis for cryptocurrency investors.',
   },
   {
     id: 6,
