@@ -16,11 +16,11 @@ const imgIcon = "/Vector.svg";
 const imgIcon1 = "/Vector.svg";
 const imgIcon2 = "/Vector.svg";
 const imgGroup2085663257 = "/Vector.svg";
-const imgRectangle9 = "/Rectangle 227.png";
-const imgRectangle10 = "/Rectangle 227.png";
-const imgRectangle11 = "/Rectangle 227.png";
-const imgRectangle12 = "/Rectangle 227.png";
-const imgRectangle28 = "/Rectangle 227.png";
+const imgRectangle9 = "/figma-exported/Hackathon Image1.png";
+const imgRectangle10 = "/figma-exported/Hackathon Image2.png";
+const imgRectangle11 = "/figma-exported/Hackathon Image3.png";
+const imgRectangle12 = "/figma-exported/Hackathon Image7.png";
+const imgRectangle28 = "/figma-exported/init.png";
 
 export default function DashboardPage() {
   const line1Ref = useRef<HTMLDivElement>(null);

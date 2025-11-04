@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Hero: React.FC = () => {
-  const imgHeroImage = "/Rectangle 227.png";
+  const imgHeroImage = "/figma-exported/Hero Image.png";
   const imgFrame3 = "/Frame-3.svg";
   const imgFrame4 = "/arrow-left.svg";
   const imgEllipse3 = "/Ellipse 6.svg";

@@ -1,0 +1,2508 @@
+{
+  "src/app/page.tsx:12": {
+    "file": "src/app/page.tsx",
+    "line": 12,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 12 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:13": {
+    "file": "src/app/page.tsx",
+    "line": 13,
+    "current": "/Rectangle 227-1.png",
+    "suggested": "/Rectangle 227-1.png",
+    "description": "Line 13 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:14": {
+    "file": "src/app/page.tsx",
+    "line": 14,
+    "current": "/Rectangle 227-2.png",
+    "suggested": "/Rectangle 227-2.png",
+    "description": "Line 14 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:15": {
+    "file": "src/app/page.tsx",
+    "line": 15,
+    "current": "/Rectangle 227-3.png",
+    "suggested": "/Rectangle 227-3.png",
+    "description": "Line 15 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:16": {
+    "file": "src/app/page.tsx",
+    "line": 16,
+    "current": "/Rectangle 227-4.png",
+    "suggested": "/Rectangle 227-4.png",
+    "description": "Line 16 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:17": {
+    "file": "src/app/page.tsx",
+    "line": 17,
+    "current": "/Rectangle 227-5.png",
+    "suggested": "/Rectangle 227-5.png",
+    "description": "Line 17 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:20": {
+    "file": "src/app/page.tsx",
+    "line": 20,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 20 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:80": {
+    "file": "src/app/page.tsx",
+    "line": 80,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 80 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:89": {
+    "file": "src/app/page.tsx",
+    "line": 89,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 89 in src/app/page.tsx"
+  },
+  "src/app/page.tsx:108": {
+    "file": "src/app/page.tsx",
+    "line": 108,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 108 in src/app/page.tsx"
+  },
+  "src/app/host/page.tsx:9": {
+    "file": "src/app/host/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:10": {
+    "file": "src/app/host/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:11": {
+    "file": "src/app/host/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:12": {
+    "file": "src/app/host/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:13": {
+    "file": "src/app/host/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:14": {
+    "file": "src/app/host/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:15": {
+    "file": "src/app/host/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:16": {
+    "file": "src/app/host/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:17": {
+    "file": "src/app/host/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:18": {
+    "file": "src/app/host/page.tsx",
+    "line": 18,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 18 in src/app/host/page.tsx"
+  },
+  "src/app/host/page.tsx:19": {
+    "file": "src/app/host/page.tsx",
+    "line": 19,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 19 in src/app/host/page.tsx"
+  },
+  "src/app/host/schedule/page.tsx:9": {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/host/schedule/page.tsx"
+  },
+  "src/app/host/schedule/page.tsx:10": {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/host/schedule/page.tsx"
+  },
+  "src/app/host/schedule/page.tsx:11": {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/host/schedule/page.tsx"
+  },
+  "src/app/host/schedule/page.tsx:12": {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/host/schedule/page.tsx"
+  },
+  "src/app/host/schedule/page.tsx:13": {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/host/schedule/page.tsx"
+  },
+  "src/app/host/schedule/page.tsx:14": {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/host/schedule/page.tsx"
+  },
+  "src/app/host/schedule/page.tsx:15": {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/host/schedule/page.tsx"
+  },
+  "src/app/host/schedule/page.tsx:16": {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/host/schedule/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:9": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:10": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:11": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:12": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:13": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:14": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:15": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:16": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:17": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:18": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 18,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 18 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:19": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 19,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 19 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:20": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 20,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 20 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:21": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 21,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 21 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/judges/page.tsx:22": {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 22,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 22 in src/app/host/judges/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:9": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:10": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:11": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:12": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:13": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:14": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:15": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:16": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:17": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/host/prizes/page.tsx:18": {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 18,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 18 in src/app/host/prizes/page.tsx"
+  },
+  "src/app/my-community/page.tsx:9": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:10": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:39": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 39,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 39 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:40": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 40,
+    "current": "/Ellipse 20.svg",
+    "suggested": "/Ellipse 20.svg",
+    "description": "Line 40 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:48": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 48,
+    "current": "/Rectangle 228.png",
+    "suggested": "/Rectangle 228.png",
+    "description": "Line 48 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:49": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 49,
+    "current": "/Ellipse 20-1.svg",
+    "suggested": "/Ellipse 20-1.svg",
+    "description": "Line 49 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:57": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 57,
+    "current": "/Rectangle 227-1.png",
+    "suggested": "/Rectangle 227-1.png",
+    "description": "Line 57 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:58": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 58,
+    "current": "/Ellipse 20-2.svg",
+    "suggested": "/Ellipse 20-2.svg",
+    "description": "Line 58 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:66": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 66,
+    "current": "/Rectangle 227-2.png",
+    "suggested": "/Rectangle 227-2.png",
+    "description": "Line 66 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:67": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 67,
+    "current": "/Ellipse 20-3.svg",
+    "suggested": "/Ellipse 20-3.svg",
+    "description": "Line 67 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:75": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 75,
+    "current": "/Rectangle 227-3.png",
+    "suggested": "/Rectangle 227-3.png",
+    "description": "Line 75 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:76": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 76,
+    "current": "/Ellipse 20-4.svg",
+    "suggested": "/Ellipse 20-4.svg",
+    "description": "Line 76 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:84": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 84,
+    "current": "/Rectangle 227-4.png",
+    "suggested": "/Rectangle 227-4.png",
+    "description": "Line 84 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:85": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 85,
+    "current": "/Ellipse 20-5.svg",
+    "suggested": "/Ellipse 20-5.svg",
+    "description": "Line 85 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:93": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 93,
+    "current": "/Rectangle 227-5.png",
+    "suggested": "/Rectangle 227-5.png",
+    "description": "Line 93 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:94": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 94,
+    "current": "/Ellipse 20-6.svg",
+    "suggested": "/Ellipse 20-6.svg",
+    "description": "Line 94 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:102": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 102,
+    "current": "/Rectangle 227-6.png",
+    "suggested": "/Rectangle 227-6.png",
+    "description": "Line 102 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/page.tsx:103": {
+    "file": "src/app/my-community/page.tsx",
+    "line": 103,
+    "current": "/Ellipse 20.svg",
+    "suggested": "/Ellipse 20.svg",
+    "description": "Line 103 in src/app/my-community/page.tsx"
+  },
+  "src/app/my-community/[id]/page.tsx:9": {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/my-community/[id]/page.tsx"
+  },
+  "src/app/my-community/[id]/page.tsx:10": {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/my-community/[id]/page.tsx"
+  },
+  "src/app/my-community/[id]/page.tsx:11": {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 11,
+    "current": "/Frame-5.svg",
+    "suggested": "/Frame-5.svg",
+    "description": "Line 11 in src/app/my-community/[id]/page.tsx"
+  },
+  "src/app/my-community/[id]/page.tsx:45": {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 45,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 45 in src/app/my-community/[id]/page.tsx"
+  },
+  "src/app/my-community/[id]/page.tsx:46": {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 46,
+    "current": "/Ellipse 21.svg",
+    "suggested": "/Ellipse 21.svg",
+    "description": "Line 46 in src/app/my-community/[id]/page.tsx"
+  },
+  "src/app/my-community/[id]/page.tsx:49": {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 49,
+    "current": "/Ellipse 22.svg",
+    "suggested": "/Ellipse 22.svg",
+    "description": "Line 49 in src/app/my-community/[id]/page.tsx"
+  },
+  "src/app/my-community/[id]/page.tsx:50": {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 50,
+    "current": "/Ellipse 23.svg",
+    "suggested": "/Ellipse 23.svg",
+    "description": "Line 50 in src/app/my-community/[id]/page.tsx"
+  },
+  "src/app/my-community/[id]/page.tsx:51": {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 51,
+    "current": "/Ellipse 24.svg",
+    "suggested": "/Ellipse 24.svg",
+    "description": "Line 51 in src/app/my-community/[id]/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:9": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:10": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:11": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 11,
+    "current": "/map-pin.svg",
+    "suggested": "/map-pin.svg",
+    "description": "Line 11 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:45": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 45,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 45 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:46": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 46,
+    "current": "/Ellipse 21.svg",
+    "suggested": "/Ellipse 21.svg",
+    "description": "Line 46 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:49": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 49,
+    "current": "/Ellipse 22.svg",
+    "suggested": "/Ellipse 22.svg",
+    "description": "Line 49 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:50": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 50,
+    "current": "/Ellipse 23.svg",
+    "suggested": "/Ellipse 23.svg",
+    "description": "Line 50 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:51": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 51,
+    "current": "/Ellipse 24.svg",
+    "suggested": "/Ellipse 24.svg",
+    "description": "Line 51 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:63": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 63,
+    "current": "/Ellipse 19.svg",
+    "suggested": "/Ellipse 19.svg",
+    "description": "Line 63 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:71": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 71,
+    "current": "/Ellipse 19-1.svg",
+    "suggested": "/Ellipse 19-1.svg",
+    "description": "Line 71 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:79": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 79,
+    "current": "/Ellipse 19-2.svg",
+    "suggested": "/Ellipse 19-2.svg",
+    "description": "Line 79 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:87": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 87,
+    "current": "/Ellipse 19.svg",
+    "suggested": "/Ellipse 19.svg",
+    "description": "Line 87 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:95": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 95,
+    "current": "/Ellipse 19-3.svg",
+    "suggested": "/Ellipse 19-3.svg",
+    "description": "Line 95 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:103": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 103,
+    "current": "/Ellipse 19-4.svg",
+    "suggested": "/Ellipse 19-4.svg",
+    "description": "Line 103 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:111": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 111,
+    "current": "/Ellipse 19.svg",
+    "suggested": "/Ellipse 19.svg",
+    "description": "Line 111 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:119": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 119,
+    "current": "/Ellipse 19-5.svg",
+    "suggested": "/Ellipse 19-5.svg",
+    "description": "Line 119 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/leaderboard/page.tsx:127": {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 127,
+    "current": "/Ellipse 19-2.svg",
+    "suggested": "/Ellipse 19-2.svg",
+    "description": "Line 127 in src/app/my-community/[id]/leaderboard/page.tsx"
+  },
+  "src/app/my-community/[id]/mission/page.tsx:9": {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/my-community/[id]/mission/page.tsx"
+  },
+  "src/app/my-community/[id]/mission/page.tsx:10": {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/my-community/[id]/mission/page.tsx"
+  },
+  "src/app/my-community/[id]/mission/page.tsx:11": {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 11,
+    "current": "/Frame-5.svg",
+    "suggested": "/Frame-5.svg",
+    "description": "Line 11 in src/app/my-community/[id]/mission/page.tsx"
+  },
+  "src/app/my-community/[id]/mission/page.tsx:45": {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 45,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 45 in src/app/my-community/[id]/mission/page.tsx"
+  },
+  "src/app/my-community/[id]/mission/page.tsx:46": {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 46,
+    "current": "/Ellipse 21.svg",
+    "suggested": "/Ellipse 21.svg",
+    "description": "Line 46 in src/app/my-community/[id]/mission/page.tsx"
+  },
+  "src/app/my-community/[id]/mission/page.tsx:49": {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 49,
+    "current": "/Ellipse 22.svg",
+    "suggested": "/Ellipse 22.svg",
+    "description": "Line 49 in src/app/my-community/[id]/mission/page.tsx"
+  },
+  "src/app/my-community/[id]/mission/page.tsx:50": {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 50,
+    "current": "/Ellipse 23.svg",
+    "suggested": "/Ellipse 23.svg",
+    "description": "Line 50 in src/app/my-community/[id]/mission/page.tsx"
+  },
+  "src/app/my-community/[id]/mission/page.tsx:51": {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 51,
+    "current": "/Ellipse 24.svg",
+    "suggested": "/Ellipse 24.svg",
+    "description": "Line 51 in src/app/my-community/[id]/mission/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:9": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:10": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:11": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:12": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:13": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:14": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:15": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:16": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:17": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:18": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 18,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 18 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:19": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 19,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 19 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:20": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 20,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 20 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:21": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 21,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 21 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:22": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 22,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 22 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/page.tsx:23": {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 23,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 23 in src/app/dashboard/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:9": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:10": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:11": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:12": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:13": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:14": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:15": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:16": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:17": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:18": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 18,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 18 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:19": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 19,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 19 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:20": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 20,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 20 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:21": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 21,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 21 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:22": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 22,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 22 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:23": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 23,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 23 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:24": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 24,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 24 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:25": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 25,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 25 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:26": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 26,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 26 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:27": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 27,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 27 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:28": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 28,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 28 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:29": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 29,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 29 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:30": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 30,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 30 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:31": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 31,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 31 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:32": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 32,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 32 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:33": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 33,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 33 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:47": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 47,
+    "current": "/Logo Container.svg",
+    "suggested": "/Logo Container.svg",
+    "description": "Line 47 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:60": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 60,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 60 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:72": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 72,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 72 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/page.tsx:84": {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 84,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 84 in src/app/dashboard/projects/create/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:9": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:10": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:11": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:12": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:13": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 13,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 13 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:14": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 14,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 14 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:15": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:29": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 29,
+    "current": "/Logo Container.svg",
+    "suggested": "/Logo Container.svg",
+    "description": "Line 29 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:42": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 42,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 42 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:54": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 54,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 54 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/hackathon/page.tsx:66": {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 66,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 66 in src/app/dashboard/projects/create/hackathon/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:9": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:10": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:11": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:12": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:13": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:14": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:15": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:16": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:17": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:18": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 18,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 18 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:32": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 32,
+    "current": "/Logo Container.svg",
+    "suggested": "/Logo Container.svg",
+    "description": "Line 32 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:45": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 45,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 45 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:57": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 57,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 57 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/dashboard/projects/create/tech-stack/page.tsx:69": {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 69,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 69 in src/app/dashboard/projects/create/tech-stack/page.tsx"
+  },
+  "src/app/courses/page.tsx:9": {
+    "file": "src/app/courses/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:10": {
+    "file": "src/app/courses/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:11": {
+    "file": "src/app/courses/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:12": {
+    "file": "src/app/courses/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:13": {
+    "file": "src/app/courses/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:14": {
+    "file": "src/app/courses/page.tsx",
+    "line": 14,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 14 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:15": {
+    "file": "src/app/courses/page.tsx",
+    "line": 15,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 15 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:16": {
+    "file": "src/app/courses/page.tsx",
+    "line": 16,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 16 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:17": {
+    "file": "src/app/courses/page.tsx",
+    "line": 17,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 17 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:18": {
+    "file": "src/app/courses/page.tsx",
+    "line": 18,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 18 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:19": {
+    "file": "src/app/courses/page.tsx",
+    "line": 19,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 19 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:20": {
+    "file": "src/app/courses/page.tsx",
+    "line": 20,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 20 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:21": {
+    "file": "src/app/courses/page.tsx",
+    "line": 21,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 21 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/page.tsx:22": {
+    "file": "src/app/courses/page.tsx",
+    "line": 22,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 22 in src/app/courses/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:9": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:10": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:11": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:12": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 12,
+    "current": "/arrow-left.svg",
+    "suggested": "/arrow-left.svg",
+    "description": "Line 12 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:13": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:14": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:15": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 15,
+    "current": "/Group 2085663287 1.png",
+    "suggested": "/Group 2085663287 1.png",
+    "description": "Line 15 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:16": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:17": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:18": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 18,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 18 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:19": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 19,
+    "current": "/Rectangle.png",
+    "suggested": "/Rectangle.png",
+    "description": "Line 19 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:20": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 20,
+    "current": "/Rectangle-1.png",
+    "suggested": "/Rectangle-1.png",
+    "description": "Line 20 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:24": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 24,
+    "current": "/solana_symbol.png.png",
+    "suggested": "/solana_symbol.png.png",
+    "description": "Line 24 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:25": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 25,
+    "current": "/solana_symbol.png-1.png",
+    "suggested": "/solana_symbol.png-1.png",
+    "description": "Line 25 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:26": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 26,
+    "current": "/solana_symbol.png-2.png",
+    "suggested": "/solana_symbol.png-2.png",
+    "description": "Line 26 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:27": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 27,
+    "current": "/solana_symbol.png-3.png",
+    "suggested": "/solana_symbol.png-3.png",
+    "description": "Line 27 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:28": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 28,
+    "current": "/solana_symbol.png-4.png",
+    "suggested": "/solana_symbol.png-4.png",
+    "description": "Line 28 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:29": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 29,
+    "current": "/solana_symbol.png-5.png",
+    "suggested": "/solana_symbol.png-5.png",
+    "description": "Line 29 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:30": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 30,
+    "current": "/solana_symbol.png-6.png",
+    "suggested": "/solana_symbol.png-6.png",
+    "description": "Line 30 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:31": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 31,
+    "current": "/solana_symbol.png-7.png",
+    "suggested": "/solana_symbol.png-7.png",
+    "description": "Line 31 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/page.tsx:32": {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 32,
+    "current": "/solana_symbol.png-8.png",
+    "suggested": "/solana_symbol.png-8.png",
+    "description": "Line 32 in src/app/courses/[id]/page.tsx"
+  },
+  "src/app/courses/[id]/unit/[unitId]/page.tsx:9": {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/courses/[id]/unit/[unitId]/page.tsx"
+  },
+  "src/app/courses/[id]/unit/[unitId]/page.tsx:10": {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/courses/[id]/unit/[unitId]/page.tsx"
+  },
+  "src/app/courses/[id]/unit/[unitId]/page.tsx:11": {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 11,
+    "current": "/arrow-left.svg",
+    "suggested": "/arrow-left.svg",
+    "description": "Line 11 in src/app/courses/[id]/unit/[unitId]/page.tsx"
+  },
+  "src/app/courses/[id]/unit/[unitId]/page.tsx:12": {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 12,
+    "current": "/x.svg",
+    "suggested": "/x.svg",
+    "description": "Line 12 in src/app/courses/[id]/unit/[unitId]/page.tsx"
+  },
+  "src/app/courses/[id]/unit/[unitId]/page.tsx:13": {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 13,
+    "current": "/help-circle.svg",
+    "suggested": "/help-circle.svg",
+    "description": "Line 13 in src/app/courses/[id]/unit/[unitId]/page.tsx"
+  },
+  "src/app/courses/[id]/unit/[unitId]/page.tsx:98": {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 98,
+    "current": "/Logo Container.svg",
+    "suggested": "/Logo Container.svg",
+    "description": "Line 98 in src/app/courses/[id]/unit/[unitId]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:9": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 9,
+    "current": "/arrow-left.svg",
+    "suggested": "/arrow-left.svg",
+    "description": "Line 9 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:10": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 10,
+    "current": "/share-2.svg",
+    "suggested": "/share-2.svg",
+    "description": "Line 10 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:11": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 11,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 11 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:12": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:13": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:14": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:15": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:16": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:17": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 17,
+    "current": "/Ellipse%206.svg",
+    "suggested": "/Ellipse%206.svg",
+    "description": "Line 17 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:18": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 18,
+    "current": "/check.svg",
+    "suggested": "/check.svg",
+    "description": "Line 18 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:19": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 19,
+    "current": "/Ellipse%206-1.svg",
+    "suggested": "/Ellipse%206-1.svg",
+    "description": "Line 19 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:20": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 20,
+    "current": "/x_logo.svg.svg",
+    "suggested": "/x_logo.svg.svg",
+    "description": "Line 20 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:21": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 21,
+    "current": "/Symbol.svg.svg",
+    "suggested": "/Symbol.svg.svg",
+    "description": "Line 21 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/page.tsx:22": {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 22,
+    "current": "/Icon.svg",
+    "suggested": "/Icon.svg",
+    "description": "Line 22 in src/app/hackathon/[id]/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:9": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 9,
+    "current": "/arrow-left.svg",
+    "suggested": "/arrow-left.svg",
+    "description": "Line 9 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:10": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 10,
+    "current": "/share-2.svg",
+    "suggested": "/share-2.svg",
+    "description": "Line 10 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:11": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:12": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:13": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:14": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:15": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:16": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:17": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:18": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 18,
+    "current": "/Ellipse%206.svg",
+    "suggested": "/Ellipse%206.svg",
+    "description": "Line 18 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:19": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 19,
+    "current": "/check.svg",
+    "suggested": "/check.svg",
+    "description": "Line 19 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:20": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 20,
+    "current": "/Ellipse%206-1.svg",
+    "suggested": "/Ellipse%206-1.svg",
+    "description": "Line 20 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:21": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 21,
+    "current": "/Ellipse%208.svg",
+    "suggested": "/Ellipse%208.svg",
+    "description": "Line 21 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:22": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 22,
+    "current": "/x_logo.svg.svg",
+    "suggested": "/x_logo.svg.svg",
+    "description": "Line 22 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:23": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 23,
+    "current": "/Symbol.svg.svg",
+    "suggested": "/Symbol.svg.svg",
+    "description": "Line 23 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:24": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 24,
+    "current": "/Frame-2.svg",
+    "suggested": "/Frame-2.svg",
+    "description": "Line 24 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:25": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 25,
+    "current": "/Frame-2.svg",
+    "suggested": "/Frame-2.svg",
+    "description": "Line 25 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/schedule/page.tsx:26": {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 26,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 26 in src/app/hackathon/[id]/schedule/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:9": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 9,
+    "current": "/arrow-left.svg",
+    "suggested": "/arrow-left.svg",
+    "description": "Line 9 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:10": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 10,
+    "current": "/share-2.svg",
+    "suggested": "/share-2.svg",
+    "description": "Line 10 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:11": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 11,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 11 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:12": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:13": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:14": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:15": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:16": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:17": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:18": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 18,
+    "current": "/Ellipse%206.svg",
+    "suggested": "/Ellipse%206.svg",
+    "description": "Line 18 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:19": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 19,
+    "current": "/check.svg",
+    "suggested": "/check.svg",
+    "description": "Line 19 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:20": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 20,
+    "current": "/Ellipse%206-1.svg",
+    "suggested": "/Ellipse%206-1.svg",
+    "description": "Line 20 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:21": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 21,
+    "current": "/Ellipse%208.svg",
+    "suggested": "/Ellipse%208.svg",
+    "description": "Line 21 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:22": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 22,
+    "current": "/Ellipse%209.svg",
+    "suggested": "/Ellipse%209.svg",
+    "description": "Line 22 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:23": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 23,
+    "current": "/Ellipse%207.svg",
+    "suggested": "/Ellipse%207.svg",
+    "description": "Line 23 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:24": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 24,
+    "current": "/x_logo.svg.svg",
+    "suggested": "/x_logo.svg.svg",
+    "description": "Line 24 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/prize-judge/page.tsx:25": {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 25,
+    "current": "/Symbol.svg.svg",
+    "suggested": "/Symbol.svg.svg",
+    "description": "Line 25 in src/app/hackathon/[id]/prize-judge/page.tsx"
+  },
+  "src/app/hackathon/[id]/register/page.tsx:9": {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/hackathon/[id]/register/page.tsx"
+  },
+  "src/app/hackathon/[id]/register/page.tsx:10": {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/hackathon/[id]/register/page.tsx"
+  },
+  "src/app/hackathon/[id]/register/page.tsx:11": {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/hackathon/[id]/register/page.tsx"
+  },
+  "src/app/hackathon/[id]/register/page.tsx:12": {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/hackathon/[id]/register/page.tsx"
+  },
+  "src/app/hackathon/[id]/register/page.tsx:13": {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/hackathon/[id]/register/page.tsx"
+  },
+  "src/app/hackathon/[id]/register/page.tsx:14": {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 14,
+    "current": "/Logo Container.svg",
+    "suggested": "/Logo Container.svg",
+    "description": "Line 14 in src/app/hackathon/[id]/register/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:9": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 9,
+    "current": "/arrow-left.svg",
+    "suggested": "/arrow-left.svg",
+    "description": "Line 9 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:10": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 10,
+    "current": "/share-2.svg",
+    "suggested": "/share-2.svg",
+    "description": "Line 10 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:11": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:12": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:13": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:14": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:15": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 15,
+    "current": "/Ellipse%206.svg",
+    "suggested": "/Ellipse%206.svg",
+    "description": "Line 15 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:16": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 16,
+    "current": "/check.svg",
+    "suggested": "/check.svg",
+    "description": "Line 16 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:17": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 17,
+    "current": "/Ellipse%206-1.svg",
+    "suggested": "/Ellipse%206-1.svg",
+    "description": "Line 17 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:18": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 18,
+    "current": "/x_logo.svg.svg",
+    "suggested": "/x_logo.svg.svg",
+    "description": "Line 18 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:19": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 19,
+    "current": "/Symbol.svg.svg",
+    "suggested": "/Symbol.svg.svg",
+    "description": "Line 19 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:20": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 20,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 20 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:21": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 21,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 21 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:22": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 22,
+    "current": "/Rectangle%2028.png",
+    "suggested": "/Rectangle%2028.png",
+    "description": "Line 22 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:23": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 23,
+    "current": "/Rectangle%2028-1.png",
+    "suggested": "/Rectangle%2028-1.png",
+    "description": "Line 23 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/hackathon/[id]/submitted-projects/page.tsx:24": {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 24,
+    "current": "/Rectangle%2028-2.png",
+    "suggested": "/Rectangle%2028-2.png",
+    "description": "Line 24 in src/app/hackathon/[id]/submitted-projects/page.tsx"
+  },
+  "src/app/certifications/page.tsx:9": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:10": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 10,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 10 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:11": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:12": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:13": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:14": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 14,
+    "current": "/Group 2085663287 1.png",
+    "suggested": "/Group 2085663287 1.png",
+    "description": "Line 14 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:15": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 15,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 15 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:16": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 16,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 16 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:17": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 17,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 17 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:18": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 18,
+    "current": "/Rectangle.png",
+    "suggested": "/Rectangle.png",
+    "description": "Line 18 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:19": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 19,
+    "current": "/Rectangle-1.png",
+    "suggested": "/Rectangle-1.png",
+    "description": "Line 19 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:23": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 23,
+    "current": "/solana_symbol.png.png",
+    "suggested": "/solana_symbol.png.png",
+    "description": "Line 23 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:24": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 24,
+    "current": "/solana_symbol.png-1.png",
+    "suggested": "/solana_symbol.png-1.png",
+    "description": "Line 24 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:25": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 25,
+    "current": "/solana_symbol.png-2.png",
+    "suggested": "/solana_symbol.png-2.png",
+    "description": "Line 25 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:26": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 26,
+    "current": "/solana_symbol.png-3.png",
+    "suggested": "/solana_symbol.png-3.png",
+    "description": "Line 26 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:27": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 27,
+    "current": "/solana_symbol.png-4.png",
+    "suggested": "/solana_symbol.png-4.png",
+    "description": "Line 27 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:28": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 28,
+    "current": "/solana_symbol.png-5.png",
+    "suggested": "/solana_symbol.png-5.png",
+    "description": "Line 28 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:29": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 29,
+    "current": "/solana_symbol.png-6.png",
+    "suggested": "/solana_symbol.png-6.png",
+    "description": "Line 29 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:30": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 30,
+    "current": "/solana_symbol.png-7.png",
+    "suggested": "/solana_symbol.png-7.png",
+    "description": "Line 30 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:31": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 31,
+    "current": "/solana_symbol.png-8.png",
+    "suggested": "/solana_symbol.png-8.png",
+    "description": "Line 31 in src/app/certifications/page.tsx"
+  },
+  "src/app/certifications/page.tsx:61": {
+    "file": "src/app/certifications/page.tsx",
+    "line": 61,
+    "current": "/solana_symbol.png.png",
+    "suggested": "/solana_symbol.png.png",
+    "description": "Line 61 in src/app/certifications/page.tsx"
+  },
+  "src/app/login/page.tsx:7": {
+    "file": "src/app/login/page.tsx",
+    "line": 7,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 7 in src/app/login/page.tsx"
+  },
+  "src/app/login/page.tsx:8": {
+    "file": "src/app/login/page.tsx",
+    "line": 8,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 8 in src/app/login/page.tsx"
+  },
+  "src/app/login/page.tsx:9": {
+    "file": "src/app/login/page.tsx",
+    "line": 9,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 9 in src/app/login/page.tsx"
+  },
+  "src/app/login/page.tsx:10": {
+    "file": "src/app/login/page.tsx",
+    "line": 10,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 10 in src/app/login/page.tsx"
+  },
+  "src/app/login/page.tsx:11": {
+    "file": "src/app/login/page.tsx",
+    "line": 11,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 11 in src/app/login/page.tsx"
+  },
+  "src/app/login/page.tsx:12": {
+    "file": "src/app/login/page.tsx",
+    "line": 12,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 12 in src/app/login/page.tsx"
+  },
+  "src/app/login/page.tsx:13": {
+    "file": "src/app/login/page.tsx",
+    "line": 13,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 13 in src/app/login/page.tsx"
+  },
+  "src/app/login/page.tsx:14": {
+    "file": "src/app/login/page.tsx",
+    "line": 14,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 14 in src/app/login/page.tsx"
+  },
+  "src/app/login/page.tsx:27": {
+    "file": "src/app/login/page.tsx",
+    "line": 27,
+    "current": "/Logo Container.svg",
+    "suggested": "/Logo Container.svg",
+    "description": "Line 27 in src/app/login/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:8": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 8,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 8 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:9": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 9,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 9 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:10": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 10,
+    "current": "/search.svg",
+    "suggested": "/search.svg",
+    "description": "Line 10 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:11": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:12": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 12,
+    "current": "/heart.svg",
+    "suggested": "/heart.svg",
+    "description": "Line 12 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:13": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 13,
+    "current": "/Frame-5.svg",
+    "suggested": "/Frame-5.svg",
+    "description": "Line 13 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:14": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 14,
+    "current": "/Frame-6.svg",
+    "suggested": "/Frame-6.svg",
+    "description": "Line 14 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:15": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 15,
+    "current": "/Frame-7.svg",
+    "suggested": "/Frame-7.svg",
+    "description": "Line 15 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:16": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 16,
+    "current": "/map-pin.svg",
+    "suggested": "/map-pin.svg",
+    "description": "Line 16 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:46": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 46,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 46 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:50": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 50,
+    "current": "/Ellipse 19.svg",
+    "suggested": "/Ellipse 19.svg",
+    "description": "Line 50 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:51": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 51,
+    "current": "/Ellipse 19-1.svg",
+    "suggested": "/Ellipse 19-1.svg",
+    "description": "Line 51 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:52": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 52,
+    "current": "/Ellipse 19-2.svg",
+    "suggested": "/Ellipse 19-2.svg",
+    "description": "Line 52 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:53": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 53,
+    "current": "/Ellipse 19.svg",
+    "suggested": "/Ellipse 19.svg",
+    "description": "Line 53 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:60": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 60,
+    "current": "/Rectangle 228.png",
+    "suggested": "/Rectangle 228.png",
+    "description": "Line 60 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:64": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 64,
+    "current": "/Ellipse 19.svg",
+    "suggested": "/Ellipse 19.svg",
+    "description": "Line 64 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:65": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 65,
+    "current": "/Ellipse 19-1.svg",
+    "suggested": "/Ellipse 19-1.svg",
+    "description": "Line 65 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:66": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 66,
+    "current": "/Ellipse 19-2.svg",
+    "suggested": "/Ellipse 19-2.svg",
+    "description": "Line 66 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:67": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 67,
+    "current": "/Ellipse 19.svg",
+    "suggested": "/Ellipse 19.svg",
+    "description": "Line 67 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:77": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 77,
+    "current": "/Rectangle 28.png",
+    "suggested": "/Rectangle 28.png",
+    "description": "Line 77 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:87": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 87,
+    "current": "/Rectangle 28-1.png",
+    "suggested": "/Rectangle 28-1.png",
+    "description": "Line 87 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:97": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 97,
+    "current": "/Rectangle 28-2.png",
+    "suggested": "/Rectangle 28-2.png",
+    "description": "Line 97 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:107": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 107,
+    "current": "/Rectangle 28.png",
+    "suggested": "/Rectangle 28.png",
+    "description": "Line 107 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:117": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 117,
+    "current": "/Rectangle 28-1.png",
+    "suggested": "/Rectangle 28-1.png",
+    "description": "Line 117 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:127": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 127,
+    "current": "/Rectangle 28-2.png",
+    "suggested": "/Rectangle 28-2.png",
+    "description": "Line 127 in src/app/project-archive/page.tsx"
+  },
+  "src/app/project-archive/page.tsx:391": {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 391,
+    "current": "/heart-1.svg",
+    "suggested": "/heart-1.svg",
+    "description": "Line 391 in src/app/project-archive/page.tsx"
+  },
+  "src/components/CommunityHeader.tsx:46": {
+    "file": "src/components/CommunityHeader.tsx",
+    "line": 46,
+    "current": "/arrow-left.svg",
+    "suggested": "/arrow-left.svg",
+    "description": "Line 46 in src/components/CommunityHeader.tsx"
+  },
+  "src/components/Hero.tsx:4": {
+    "file": "src/components/Hero.tsx",
+    "line": 4,
+    "current": "/Rectangle 227.png",
+    "suggested": "/Rectangle 227.png",
+    "description": "Line 4 in src/components/Hero.tsx"
+  },
+  "src/components/Hero.tsx:5": {
+    "file": "src/components/Hero.tsx",
+    "line": 5,
+    "current": "/Frame-3.svg",
+    "suggested": "/Frame-3.svg",
+    "description": "Line 5 in src/components/Hero.tsx"
+  },
+  "src/components/Hero.tsx:6": {
+    "file": "src/components/Hero.tsx",
+    "line": 6,
+    "current": "/arrow-left.svg",
+    "suggested": "/arrow-left.svg",
+    "description": "Line 6 in src/components/Hero.tsx"
+  },
+  "src/components/Hero.tsx:7": {
+    "file": "src/components/Hero.tsx",
+    "line": 7,
+    "current": "/Ellipse 6.svg",
+    "suggested": "/Ellipse 6.svg",
+    "description": "Line 7 in src/components/Hero.tsx"
+  },
+  "src/components/Hero.tsx:8": {
+    "file": "src/components/Hero.tsx",
+    "line": 8,
+    "current": "/Ellipse 6-1.svg",
+    "suggested": "/Ellipse 6-1.svg",
+    "description": "Line 8 in src/components/Hero.tsx"
+  },
+  "src/components/Filters.tsx:3": {
+    "file": "src/components/Filters.tsx",
+    "line": 3,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 3 in src/components/Filters.tsx"
+  },
+  "src/components/Header.tsx:6": {
+    "file": "src/components/Header.tsx",
+    "line": 6,
+    "current": "/search.svg",
+    "suggested": "/search.svg",
+    "description": "Line 6 in src/components/Header.tsx"
+  },
+  "src/components/Header.tsx:7": {
+    "file": "src/components/Header.tsx",
+    "line": 7,
+    "current": "/Frame-2.svg",
+    "suggested": "/Frame-2.svg",
+    "description": "Line 7 in src/components/Header.tsx"
+  },
+  "src/components/Header.tsx:8": {
+    "file": "src/components/Header.tsx",
+    "line": 8,
+    "current": "/Ellipse 2.svg",
+    "suggested": "/Ellipse 2.svg",
+    "description": "Line 8 in src/components/Header.tsx"
+  },
+  "src/components/Sidebar.tsx:7": {
+    "file": "src/components/Sidebar.tsx",
+    "line": 7,
+    "current": "/Logo Container.svg",
+    "suggested": "/Logo Container.svg",
+    "description": "Line 7 in src/components/Sidebar.tsx"
+  },
+  "src/components/Sidebar.tsx:8": {
+    "file": "src/components/Sidebar.tsx",
+    "line": 8,
+    "current": "/Frame-1.svg",
+    "suggested": "/Frame-1.svg",
+    "description": "Line 8 in src/components/Sidebar.tsx"
+  },
+  "src/components/Sidebar.tsx:9": {
+    "file": "src/components/Sidebar.tsx",
+    "line": 9,
+    "current": "/Frame-1.svg",
+    "suggested": "/Frame-1.svg",
+    "description": "Line 9 in src/components/Sidebar.tsx"
+  },
+  "src/components/Sidebar.tsx:10": {
+    "file": "src/components/Sidebar.tsx",
+    "line": 10,
+    "current": "/Frame-2.svg",
+    "suggested": "/Frame-2.svg",
+    "description": "Line 10 in src/components/Sidebar.tsx"
+  },
+  "src/components/Sidebar.tsx:11": {
+    "file": "src/components/Sidebar.tsx",
+    "line": 11,
+    "current": "/Vector.svg",
+    "suggested": "/Vector.svg",
+    "description": "Line 11 in src/components/Sidebar.tsx"
+  },
+  "src/components/Sidebar.tsx:71": {
+    "file": "src/components/Sidebar.tsx",
+    "line": 71,
+    "current": "/Frame-3.svg",
+    "suggested": "/Frame-3.svg",
+    "description": "Line 71 in src/components/Sidebar.tsx"
+  },
+  "src/components/Sidebar.tsx:149": {
+    "file": "src/components/Sidebar.tsx",
+    "line": 149,
+    "current": "/Frame-3.svg",
+    "suggested": "/Frame-3.svg",
+    "description": "Line 149 in src/components/Sidebar.tsx"
+  }
+}

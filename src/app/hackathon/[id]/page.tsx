@@ -8,7 +8,7 @@ import Header from '@/components/Header';
 // Image URLs - using local SVG files from public directory
 const imgArrowLeft = "/arrow-left.svg";
 const imgShare2 = "/share-2.svg";
-const imgHackathonImage = "/Rectangle 227.png";
+const imgHackathonImage = "/figma-exported/Hackathon Image1.png";
 const imgLine1 = "/Vector.svg";
 const imgLine9 = "/Vector.svg";
 const imgLine12 = "/Vector.svg";

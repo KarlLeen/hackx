@@ -9,12 +9,12 @@ import Filters from '@/components/Filters';
 import HackathonCard from '@/components/HackathonCard';
 
 // Image URLs
-const imgHackathonImage = "/Rectangle 227.png";
-const imgHackathonImage1 = "/Rectangle 227-1.png";
-const imgHackathonImage2 = "/Rectangle 227-2.png";
-const imgHackathonImage3 = "/Rectangle 227-3.png";
-const imgHackathonImage4 = "/Rectangle 227-4.png";
-const imgHackathonImage5 = "/Rectangle 227-5.png";
+const imgHackathonImage = "/figma-exported/Hackathon Image1.png";
+const imgHackathonImage1 = "/figma-exported/Hackathon Image2.png";
+const imgHackathonImage2 = "/figma-exported/Hackathon Image3.png";
+const imgHackathonImage3 = "/figma-exported/Hackathon Image4.png";
+const imgHackathonImage4 = "/figma-exported/Hackathon Image5.png";
+const imgHackathonImage5 = "/figma-exported/Hackathon Image6.png";
 
 // Line1 divider image
 const imgLine1 = "/Vector.svg";

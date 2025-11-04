@@ -82,31 +82,6 @@ export default function SchedulePage({ params }: SchedulePageProps) {
         },
         dateTime: "Jun 26, 2025 20:00 (EST)",
       },
-      {
-        date: "Jun 26, 2025 15:00",
-        title: "Online Course 2",
-        description: "Course description",
-      },
-      {
-        date: "Jun. 28, 2025; 15:00",
-        title: "Workshop 1",
-        description: "Workshop description",
-      },
-      {
-        date: "Jun. 30, 2025; 15:00",
-        title: "Workshop 2",
-        description: "Workshop description",
-      },
-      {
-        dateRange: "Jul 19, 2025 19:00 - Jul 30, 2025 19:00",
-        title: "Online Course 3",
-        description: "Course description",
-      },
-      {
-        date: "Aug 3, 2025 19:00",
-        title: "Final Presentation",
-        description: "Final presentation event",
-      },
     ],
   };
 

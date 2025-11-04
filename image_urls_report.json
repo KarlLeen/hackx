@@ -1,0 +1,2515 @@
+[
+  {
+    "file": "src/app/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Rectangle 227-1.png",
+    "filename": "/Rectangle 227-1.png"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Rectangle 227-2.png",
+    "filename": "/Rectangle 227-2.png"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Rectangle 227-3.png",
+    "filename": "/Rectangle 227-3.png"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Rectangle 227-4.png",
+    "filename": "/Rectangle 227-4.png"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Rectangle 227-5.png",
+    "filename": "/Rectangle 227-5.png"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 80,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 89,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/page.tsx",
+    "line": 108,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/schedule/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 21,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/host/judges/page.tsx",
+    "line": 22,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/host/prizes/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 39,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 40,
+    "type": "public",
+    "url": "/Ellipse 20.svg",
+    "filename": "/Ellipse 20.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 48,
+    "type": "public",
+    "url": "/Rectangle 228.png",
+    "filename": "/Rectangle 228.png"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 49,
+    "type": "public",
+    "url": "/Ellipse 20-1.svg",
+    "filename": "/Ellipse 20-1.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 57,
+    "type": "public",
+    "url": "/Rectangle 227-1.png",
+    "filename": "/Rectangle 227-1.png"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 58,
+    "type": "public",
+    "url": "/Ellipse 20-2.svg",
+    "filename": "/Ellipse 20-2.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 66,
+    "type": "public",
+    "url": "/Rectangle 227-2.png",
+    "filename": "/Rectangle 227-2.png"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 67,
+    "type": "public",
+    "url": "/Ellipse 20-3.svg",
+    "filename": "/Ellipse 20-3.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 75,
+    "type": "public",
+    "url": "/Rectangle 227-3.png",
+    "filename": "/Rectangle 227-3.png"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 76,
+    "type": "public",
+    "url": "/Ellipse 20-4.svg",
+    "filename": "/Ellipse 20-4.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 84,
+    "type": "public",
+    "url": "/Rectangle 227-4.png",
+    "filename": "/Rectangle 227-4.png"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 85,
+    "type": "public",
+    "url": "/Ellipse 20-5.svg",
+    "filename": "/Ellipse 20-5.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 93,
+    "type": "public",
+    "url": "/Rectangle 227-5.png",
+    "filename": "/Rectangle 227-5.png"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 94,
+    "type": "public",
+    "url": "/Ellipse 20-6.svg",
+    "filename": "/Ellipse 20-6.svg"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 102,
+    "type": "public",
+    "url": "/Rectangle 227-6.png",
+    "filename": "/Rectangle 227-6.png"
+  },
+  {
+    "file": "src/app/my-community/page.tsx",
+    "line": 103,
+    "type": "public",
+    "url": "/Ellipse 20.svg",
+    "filename": "/Ellipse 20.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Frame-5.svg",
+    "filename": "/Frame-5.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 45,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 46,
+    "type": "public",
+    "url": "/Ellipse 21.svg",
+    "filename": "/Ellipse 21.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 49,
+    "type": "public",
+    "url": "/Ellipse 22.svg",
+    "filename": "/Ellipse 22.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 50,
+    "type": "public",
+    "url": "/Ellipse 23.svg",
+    "filename": "/Ellipse 23.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/page.tsx",
+    "line": 51,
+    "type": "public",
+    "url": "/Ellipse 24.svg",
+    "filename": "/Ellipse 24.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/map-pin.svg",
+    "filename": "/map-pin.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 45,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 46,
+    "type": "public",
+    "url": "/Ellipse 21.svg",
+    "filename": "/Ellipse 21.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 49,
+    "type": "public",
+    "url": "/Ellipse 22.svg",
+    "filename": "/Ellipse 22.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 50,
+    "type": "public",
+    "url": "/Ellipse 23.svg",
+    "filename": "/Ellipse 23.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 51,
+    "type": "public",
+    "url": "/Ellipse 24.svg",
+    "filename": "/Ellipse 24.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 63,
+    "type": "public",
+    "url": "/Ellipse 19.svg",
+    "filename": "/Ellipse 19.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 71,
+    "type": "public",
+    "url": "/Ellipse 19-1.svg",
+    "filename": "/Ellipse 19-1.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 79,
+    "type": "public",
+    "url": "/Ellipse 19-2.svg",
+    "filename": "/Ellipse 19-2.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 87,
+    "type": "public",
+    "url": "/Ellipse 19.svg",
+    "filename": "/Ellipse 19.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 95,
+    "type": "public",
+    "url": "/Ellipse 19-3.svg",
+    "filename": "/Ellipse 19-3.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 103,
+    "type": "public",
+    "url": "/Ellipse 19-4.svg",
+    "filename": "/Ellipse 19-4.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 111,
+    "type": "public",
+    "url": "/Ellipse 19.svg",
+    "filename": "/Ellipse 19.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 119,
+    "type": "public",
+    "url": "/Ellipse 19-5.svg",
+    "filename": "/Ellipse 19-5.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+    "line": 127,
+    "type": "public",
+    "url": "/Ellipse 19-2.svg",
+    "filename": "/Ellipse 19-2.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Frame-5.svg",
+    "filename": "/Frame-5.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 45,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 46,
+    "type": "public",
+    "url": "/Ellipse 21.svg",
+    "filename": "/Ellipse 21.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 49,
+    "type": "public",
+    "url": "/Ellipse 22.svg",
+    "filename": "/Ellipse 22.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 50,
+    "type": "public",
+    "url": "/Ellipse 23.svg",
+    "filename": "/Ellipse 23.svg"
+  },
+  {
+    "file": "src/app/my-community/[id]/mission/page.tsx",
+    "line": 51,
+    "type": "public",
+    "url": "/Ellipse 24.svg",
+    "filename": "/Ellipse 24.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 21,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 22,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/dashboard/page.tsx",
+    "line": 23,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 21,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 22,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 23,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 24,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 25,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 26,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 27,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 28,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 29,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 30,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 31,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 32,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 33,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 47,
+    "type": "public",
+    "url": "/Logo Container.svg",
+    "filename": "/Logo Container.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 60,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 72,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/page.tsx",
+    "line": 84,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 29,
+    "type": "public",
+    "url": "/Logo Container.svg",
+    "filename": "/Logo Container.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 42,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 54,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+    "line": 66,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 32,
+    "type": "public",
+    "url": "/Logo Container.svg",
+    "filename": "/Logo Container.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 45,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 57,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+    "line": 69,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 21,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/page.tsx",
+    "line": 22,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/arrow-left.svg",
+    "filename": "/arrow-left.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Group 2085663287 1.png",
+    "filename": "/Group 2085663287 1.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Rectangle.png",
+    "filename": "/Rectangle.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Rectangle-1.png",
+    "filename": "/Rectangle-1.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 24,
+    "type": "public",
+    "url": "/solana_symbol.png.png",
+    "filename": "/solana_symbol.png.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 25,
+    "type": "public",
+    "url": "/solana_symbol.png-1.png",
+    "filename": "/solana_symbol.png-1.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 26,
+    "type": "public",
+    "url": "/solana_symbol.png-2.png",
+    "filename": "/solana_symbol.png-2.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 27,
+    "type": "public",
+    "url": "/solana_symbol.png-3.png",
+    "filename": "/solana_symbol.png-3.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 28,
+    "type": "public",
+    "url": "/solana_symbol.png-4.png",
+    "filename": "/solana_symbol.png-4.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 29,
+    "type": "public",
+    "url": "/solana_symbol.png-5.png",
+    "filename": "/solana_symbol.png-5.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 30,
+    "type": "public",
+    "url": "/solana_symbol.png-6.png",
+    "filename": "/solana_symbol.png-6.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 31,
+    "type": "public",
+    "url": "/solana_symbol.png-7.png",
+    "filename": "/solana_symbol.png-7.png"
+  },
+  {
+    "file": "src/app/courses/[id]/page.tsx",
+    "line": 32,
+    "type": "public",
+    "url": "/solana_symbol.png-8.png",
+    "filename": "/solana_symbol.png-8.png"
+  },
+  {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/arrow-left.svg",
+    "filename": "/arrow-left.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/x.svg",
+    "filename": "/x.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/help-circle.svg",
+    "filename": "/help-circle.svg"
+  },
+  {
+    "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+    "line": 98,
+    "type": "public",
+    "url": "/Logo Container.svg",
+    "filename": "/Logo Container.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/arrow-left.svg",
+    "filename": "/arrow-left.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/share-2.svg",
+    "filename": "/share-2.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Ellipse%206.svg",
+    "filename": "/Ellipse%206.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/check.svg",
+    "filename": "/check.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Ellipse%206-1.svg",
+    "filename": "/Ellipse%206-1.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/x_logo.svg.svg",
+    "filename": "/x_logo.svg.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 21,
+    "type": "public",
+    "url": "/Symbol.svg.svg",
+    "filename": "/Symbol.svg.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/page.tsx",
+    "line": 22,
+    "type": "public",
+    "url": "/Icon.svg",
+    "filename": "/Icon.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/arrow-left.svg",
+    "filename": "/arrow-left.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/share-2.svg",
+    "filename": "/share-2.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Ellipse%206.svg",
+    "filename": "/Ellipse%206.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/check.svg",
+    "filename": "/check.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Ellipse%206-1.svg",
+    "filename": "/Ellipse%206-1.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 21,
+    "type": "public",
+    "url": "/Ellipse%208.svg",
+    "filename": "/Ellipse%208.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 22,
+    "type": "public",
+    "url": "/x_logo.svg.svg",
+    "filename": "/x_logo.svg.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 23,
+    "type": "public",
+    "url": "/Symbol.svg.svg",
+    "filename": "/Symbol.svg.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 24,
+    "type": "public",
+    "url": "/Frame-2.svg",
+    "filename": "/Frame-2.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 25,
+    "type": "public",
+    "url": "/Frame-2.svg",
+    "filename": "/Frame-2.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/schedule/page.tsx",
+    "line": 26,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/arrow-left.svg",
+    "filename": "/arrow-left.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/share-2.svg",
+    "filename": "/share-2.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Ellipse%206.svg",
+    "filename": "/Ellipse%206.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/check.svg",
+    "filename": "/check.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Ellipse%206-1.svg",
+    "filename": "/Ellipse%206-1.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 21,
+    "type": "public",
+    "url": "/Ellipse%208.svg",
+    "filename": "/Ellipse%208.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 22,
+    "type": "public",
+    "url": "/Ellipse%209.svg",
+    "filename": "/Ellipse%209.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 23,
+    "type": "public",
+    "url": "/Ellipse%207.svg",
+    "filename": "/Ellipse%207.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 24,
+    "type": "public",
+    "url": "/x_logo.svg.svg",
+    "filename": "/x_logo.svg.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+    "line": 25,
+    "type": "public",
+    "url": "/Symbol.svg.svg",
+    "filename": "/Symbol.svg.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/register/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Logo Container.svg",
+    "filename": "/Logo Container.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/arrow-left.svg",
+    "filename": "/arrow-left.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/share-2.svg",
+    "filename": "/share-2.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Ellipse%206.svg",
+    "filename": "/Ellipse%206.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/check.svg",
+    "filename": "/check.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Ellipse%206-1.svg",
+    "filename": "/Ellipse%206-1.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/x_logo.svg.svg",
+    "filename": "/x_logo.svg.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Symbol.svg.svg",
+    "filename": "/Symbol.svg.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 20,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 21,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 22,
+    "type": "public",
+    "url": "/Rectangle%2028.png",
+    "filename": "/Rectangle%2028.png"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 23,
+    "type": "public",
+    "url": "/Rectangle%2028-1.png",
+    "filename": "/Rectangle%2028-1.png"
+  },
+  {
+    "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+    "line": 24,
+    "type": "public",
+    "url": "/Rectangle%2028-2.png",
+    "filename": "/Rectangle%2028-2.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Group 2085663287 1.png",
+    "filename": "/Group 2085663287 1.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 17,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 18,
+    "type": "public",
+    "url": "/Rectangle.png",
+    "filename": "/Rectangle.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 19,
+    "type": "public",
+    "url": "/Rectangle-1.png",
+    "filename": "/Rectangle-1.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 23,
+    "type": "public",
+    "url": "/solana_symbol.png.png",
+    "filename": "/solana_symbol.png.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 24,
+    "type": "public",
+    "url": "/solana_symbol.png-1.png",
+    "filename": "/solana_symbol.png-1.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 25,
+    "type": "public",
+    "url": "/solana_symbol.png-2.png",
+    "filename": "/solana_symbol.png-2.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 26,
+    "type": "public",
+    "url": "/solana_symbol.png-3.png",
+    "filename": "/solana_symbol.png-3.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 27,
+    "type": "public",
+    "url": "/solana_symbol.png-4.png",
+    "filename": "/solana_symbol.png-4.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 28,
+    "type": "public",
+    "url": "/solana_symbol.png-5.png",
+    "filename": "/solana_symbol.png-5.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 29,
+    "type": "public",
+    "url": "/solana_symbol.png-6.png",
+    "filename": "/solana_symbol.png-6.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 30,
+    "type": "public",
+    "url": "/solana_symbol.png-7.png",
+    "filename": "/solana_symbol.png-7.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 31,
+    "type": "public",
+    "url": "/solana_symbol.png-8.png",
+    "filename": "/solana_symbol.png-8.png"
+  },
+  {
+    "file": "src/app/certifications/page.tsx",
+    "line": 61,
+    "type": "public",
+    "url": "/solana_symbol.png.png",
+    "filename": "/solana_symbol.png.png"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 7,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 8,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/login/page.tsx",
+    "line": 27,
+    "type": "public",
+    "url": "/Logo Container.svg",
+    "filename": "/Logo Container.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 8,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/search.svg",
+    "filename": "/search.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 12,
+    "type": "public",
+    "url": "/heart.svg",
+    "filename": "/heart.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 13,
+    "type": "public",
+    "url": "/Frame-5.svg",
+    "filename": "/Frame-5.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 14,
+    "type": "public",
+    "url": "/Frame-6.svg",
+    "filename": "/Frame-6.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 15,
+    "type": "public",
+    "url": "/Frame-7.svg",
+    "filename": "/Frame-7.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 16,
+    "type": "public",
+    "url": "/map-pin.svg",
+    "filename": "/map-pin.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 46,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 50,
+    "type": "public",
+    "url": "/Ellipse 19.svg",
+    "filename": "/Ellipse 19.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 51,
+    "type": "public",
+    "url": "/Ellipse 19-1.svg",
+    "filename": "/Ellipse 19-1.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 52,
+    "type": "public",
+    "url": "/Ellipse 19-2.svg",
+    "filename": "/Ellipse 19-2.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 53,
+    "type": "public",
+    "url": "/Ellipse 19.svg",
+    "filename": "/Ellipse 19.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 60,
+    "type": "public",
+    "url": "/Rectangle 228.png",
+    "filename": "/Rectangle 228.png"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 64,
+    "type": "public",
+    "url": "/Ellipse 19.svg",
+    "filename": "/Ellipse 19.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 65,
+    "type": "public",
+    "url": "/Ellipse 19-1.svg",
+    "filename": "/Ellipse 19-1.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 66,
+    "type": "public",
+    "url": "/Ellipse 19-2.svg",
+    "filename": "/Ellipse 19-2.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 67,
+    "type": "public",
+    "url": "/Ellipse 19.svg",
+    "filename": "/Ellipse 19.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 77,
+    "type": "public",
+    "url": "/Rectangle 28.png",
+    "filename": "/Rectangle 28.png"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 87,
+    "type": "public",
+    "url": "/Rectangle 28-1.png",
+    "filename": "/Rectangle 28-1.png"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 97,
+    "type": "public",
+    "url": "/Rectangle 28-2.png",
+    "filename": "/Rectangle 28-2.png"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 107,
+    "type": "public",
+    "url": "/Rectangle 28.png",
+    "filename": "/Rectangle 28.png"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 117,
+    "type": "public",
+    "url": "/Rectangle 28-1.png",
+    "filename": "/Rectangle 28-1.png"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 127,
+    "type": "public",
+    "url": "/Rectangle 28-2.png",
+    "filename": "/Rectangle 28-2.png"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 391,
+    "type": "public",
+    "url": "/heart-2.svg",
+    "filename": "/heart-2.svg"
+  },
+  {
+    "file": "src/app/project-archive/page.tsx",
+    "line": 391,
+    "type": "public",
+    "url": "/heart-1.svg",
+    "filename": "/heart-1.svg"
+  },
+  {
+    "file": "src/components/CommunityHeader.tsx",
+    "line": 46,
+    "type": "public",
+    "url": "/arrow-left.svg",
+    "filename": "/arrow-left.svg"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 4,
+    "type": "public",
+    "url": "/Rectangle 227.png",
+    "filename": "/Rectangle 227.png"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 5,
+    "type": "public",
+    "url": "/Frame-3.svg",
+    "filename": "/Frame-3.svg"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 6,
+    "type": "public",
+    "url": "/arrow-left.svg",
+    "filename": "/arrow-left.svg"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 7,
+    "type": "public",
+    "url": "/Ellipse 6.svg",
+    "filename": "/Ellipse 6.svg"
+  },
+  {
+    "file": "src/components/Hero.tsx",
+    "line": 8,
+    "type": "public",
+    "url": "/Ellipse 6-1.svg",
+    "filename": "/Ellipse 6-1.svg"
+  },
+  {
+    "file": "src/components/Filters.tsx",
+    "line": 3,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/components/Header.tsx",
+    "line": 6,
+    "type": "public",
+    "url": "/search.svg",
+    "filename": "/search.svg"
+  },
+  {
+    "file": "src/components/Header.tsx",
+    "line": 7,
+    "type": "public",
+    "url": "/Frame-2.svg",
+    "filename": "/Frame-2.svg"
+  },
+  {
+    "file": "src/components/Header.tsx",
+    "line": 8,
+    "type": "public",
+    "url": "/Ellipse 2.svg",
+    "filename": "/Ellipse 2.svg"
+  },
+  {
+    "file": "src/components/Sidebar.tsx",
+    "line": 7,
+    "type": "public",
+    "url": "/Logo Container.svg",
+    "filename": "/Logo Container.svg"
+  },
+  {
+    "file": "src/components/Sidebar.tsx",
+    "line": 8,
+    "type": "public",
+    "url": "/Frame-1.svg",
+    "filename": "/Frame-1.svg"
+  },
+  {
+    "file": "src/components/Sidebar.tsx",
+    "line": 9,
+    "type": "public",
+    "url": "/Frame-1.svg",
+    "filename": "/Frame-1.svg"
+  },
+  {
+    "file": "src/components/Sidebar.tsx",
+    "line": 10,
+    "type": "public",
+    "url": "/Frame-2.svg",
+    "filename": "/Frame-2.svg"
+  },
+  {
+    "file": "src/components/Sidebar.tsx",
+    "line": 11,
+    "type": "public",
+    "url": "/Vector.svg",
+    "filename": "/Vector.svg"
+  },
+  {
+    "file": "src/components/Sidebar.tsx",
+    "line": 71,
+    "type": "public",
+    "url": "/Frame-3.svg",
+    "filename": "/Frame-3.svg"
+  },
+  {
+    "file": "src/components/Sidebar.tsx",
+    "line": 149,
+    "type": "public",
+    "url": "/Frame-3.svg",
+    "filename": "/Frame-3.svg"
+  }
+]

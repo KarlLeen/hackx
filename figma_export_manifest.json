@@ -1,0 +1,2593 @@
+{
+  "from_figma": [],
+  "from_public": [
+    {
+      "path": "/Rectangle 227.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/page.tsx",
+          "line": 12,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 21,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 22,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 39,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/page.tsx",
+          "line": 45,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 45,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/mission/page.tsx",
+          "line": 45,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 19,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 20,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 21,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 22,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 23,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 13,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 14,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 14,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 15,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 16,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 17,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 18,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 19,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 20,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 21,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 22,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 11,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 11,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 7,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 8,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 9,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 10,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 11,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 46,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Hero.tsx",
+          "line": 4,
+          "url": "/Rectangle 227.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 227-1.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/page.tsx",
+          "line": 13,
+          "url": "/Rectangle 227-1.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 57,
+          "url": "/Rectangle 227-1.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 227-2.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/page.tsx",
+          "line": 14,
+          "url": "/Rectangle 227-2.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 66,
+          "url": "/Rectangle 227-2.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 227-3.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/page.tsx",
+          "line": 15,
+          "url": "/Rectangle 227-3.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 75,
+          "url": "/Rectangle 227-3.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 227-4.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/page.tsx",
+          "line": 16,
+          "url": "/Rectangle 227-4.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 84,
+          "url": "/Rectangle 227-4.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 227-5.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/page.tsx",
+          "line": 17,
+          "url": "/Rectangle 227-5.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 93,
+          "url": "/Rectangle 227-5.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Vector.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/page.tsx",
+          "line": 20,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/page.tsx",
+          "line": 80,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/page.tsx",
+          "line": 89,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/page.tsx",
+          "line": 108,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 18,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/page.tsx",
+          "line": 19,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/schedule/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/schedule/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/schedule/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/schedule/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/schedule/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/schedule/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/schedule/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/schedule/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 18,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 19,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/judges/page.tsx",
+          "line": 20,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/host/prizes/page.tsx",
+          "line": 18,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/mission/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/mission/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/page.tsx",
+          "line": 18,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 18,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 19,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 20,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 21,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 22,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 23,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 24,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 25,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 26,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 27,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 28,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 29,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 30,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 31,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 32,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 33,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 60,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 72,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 84,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 42,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 54,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 66,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 18,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 45,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 57,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 69,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 18,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 26,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/register/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/register/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/register/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/register/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/register/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 20,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 21,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 10,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 15,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 16,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 17,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 12,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 13,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 14,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 8,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 9,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Filters.tsx",
+          "line": 3,
+          "url": "/Vector.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Sidebar.tsx",
+          "line": 11,
+          "url": "/Vector.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 20.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 40,
+          "url": "/Ellipse 20.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 103,
+          "url": "/Ellipse 20.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 228.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 48,
+          "url": "/Rectangle 228.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 60,
+          "url": "/Rectangle 228.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 20-1.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 49,
+          "url": "/Ellipse 20-1.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 20-2.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 58,
+          "url": "/Ellipse 20-2.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 20-3.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 67,
+          "url": "/Ellipse 20-3.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 20-4.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 76,
+          "url": "/Ellipse 20-4.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 20-5.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 85,
+          "url": "/Ellipse 20-5.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 20-6.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 94,
+          "url": "/Ellipse 20-6.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 227-6.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/page.tsx",
+          "line": 102,
+          "url": "/Rectangle 227-6.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Frame-5.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/page.tsx",
+          "line": 11,
+          "url": "/Frame-5.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/mission/page.tsx",
+          "line": 11,
+          "url": "/Frame-5.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 13,
+          "url": "/Frame-5.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 21.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/page.tsx",
+          "line": 46,
+          "url": "/Ellipse 21.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 46,
+          "url": "/Ellipse 21.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/mission/page.tsx",
+          "line": 46,
+          "url": "/Ellipse 21.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 22.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/page.tsx",
+          "line": 49,
+          "url": "/Ellipse 22.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 49,
+          "url": "/Ellipse 22.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/mission/page.tsx",
+          "line": 49,
+          "url": "/Ellipse 22.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 23.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/page.tsx",
+          "line": 50,
+          "url": "/Ellipse 23.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 50,
+          "url": "/Ellipse 23.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/mission/page.tsx",
+          "line": 50,
+          "url": "/Ellipse 23.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 24.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/page.tsx",
+          "line": 51,
+          "url": "/Ellipse 24.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 51,
+          "url": "/Ellipse 24.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/mission/page.tsx",
+          "line": 51,
+          "url": "/Ellipse 24.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/map-pin.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 11,
+          "url": "/map-pin.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 16,
+          "url": "/map-pin.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 19.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 63,
+          "url": "/Ellipse 19.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 87,
+          "url": "/Ellipse 19.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 111,
+          "url": "/Ellipse 19.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 50,
+          "url": "/Ellipse 19.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 53,
+          "url": "/Ellipse 19.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 64,
+          "url": "/Ellipse 19.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 67,
+          "url": "/Ellipse 19.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 19-1.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 71,
+          "url": "/Ellipse 19-1.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 51,
+          "url": "/Ellipse 19-1.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 65,
+          "url": "/Ellipse 19-1.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 19-2.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 79,
+          "url": "/Ellipse 19-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 127,
+          "url": "/Ellipse 19-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 52,
+          "url": "/Ellipse 19-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 66,
+          "url": "/Ellipse 19-2.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 19-3.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 95,
+          "url": "/Ellipse 19-3.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 19-4.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 103,
+          "url": "/Ellipse 19-4.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 19-5.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+          "line": 119,
+          "url": "/Ellipse 19-5.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Logo Container.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/dashboard/projects/create/page.tsx",
+          "line": 47,
+          "url": "/Logo Container.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/hackathon/page.tsx",
+          "line": 29,
+          "url": "/Logo Container.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/dashboard/projects/create/tech-stack/page.tsx",
+          "line": 32,
+          "url": "/Logo Container.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+          "line": 98,
+          "url": "/Logo Container.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/register/page.tsx",
+          "line": 14,
+          "url": "/Logo Container.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/login/page.tsx",
+          "line": 27,
+          "url": "/Logo Container.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Sidebar.tsx",
+          "line": 7,
+          "url": "/Logo Container.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/arrow-left.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 12,
+          "url": "/arrow-left.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+          "line": 11,
+          "url": "/arrow-left.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 9,
+          "url": "/arrow-left.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 9,
+          "url": "/arrow-left.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 9,
+          "url": "/arrow-left.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 9,
+          "url": "/arrow-left.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/CommunityHeader.tsx",
+          "line": 46,
+          "url": "/arrow-left.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Hero.tsx",
+          "line": 6,
+          "url": "/arrow-left.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Group 2085663287 1.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 15,
+          "url": "/Group 2085663287 1.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 14,
+          "url": "/Group 2085663287 1.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 19,
+          "url": "/Rectangle.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 18,
+          "url": "/Rectangle.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle-1.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 20,
+          "url": "/Rectangle-1.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 19,
+          "url": "/Rectangle-1.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 24,
+          "url": "/solana_symbol.png.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 23,
+          "url": "/solana_symbol.png.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 61,
+          "url": "/solana_symbol.png.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png-1.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 25,
+          "url": "/solana_symbol.png-1.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 24,
+          "url": "/solana_symbol.png-1.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png-2.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 26,
+          "url": "/solana_symbol.png-2.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 25,
+          "url": "/solana_symbol.png-2.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png-3.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 27,
+          "url": "/solana_symbol.png-3.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 26,
+          "url": "/solana_symbol.png-3.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png-4.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 28,
+          "url": "/solana_symbol.png-4.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 27,
+          "url": "/solana_symbol.png-4.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png-5.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 29,
+          "url": "/solana_symbol.png-5.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 28,
+          "url": "/solana_symbol.png-5.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png-6.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 30,
+          "url": "/solana_symbol.png-6.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 29,
+          "url": "/solana_symbol.png-6.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png-7.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 31,
+          "url": "/solana_symbol.png-7.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 30,
+          "url": "/solana_symbol.png-7.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/solana_symbol.png-8.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/page.tsx",
+          "line": 32,
+          "url": "/solana_symbol.png-8.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/certifications/page.tsx",
+          "line": 31,
+          "url": "/solana_symbol.png-8.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/x.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+          "line": 12,
+          "url": "/x.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/help-circle.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/courses/[id]/unit/[unitId]/page.tsx",
+          "line": 13,
+          "url": "/help-circle.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/share-2.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 10,
+          "url": "/share-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 10,
+          "url": "/share-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 10,
+          "url": "/share-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 10,
+          "url": "/share-2.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/check.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 18,
+          "url": "/check.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 19,
+          "url": "/check.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 19,
+          "url": "/check.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 16,
+          "url": "/check.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/x_logo.svg.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 20,
+          "url": "/x_logo.svg.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 22,
+          "url": "/x_logo.svg.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 24,
+          "url": "/x_logo.svg.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 18,
+          "url": "/x_logo.svg.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Symbol.svg.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 21,
+          "url": "/Symbol.svg.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 23,
+          "url": "/Symbol.svg.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 25,
+          "url": "/Symbol.svg.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 19,
+          "url": "/Symbol.svg.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Icon.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 22,
+          "url": "/Icon.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Frame-2.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 24,
+          "url": "/Frame-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 25,
+          "url": "/Frame-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Header.tsx",
+          "line": 7,
+          "url": "/Frame-2.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Sidebar.tsx",
+          "line": 10,
+          "url": "/Frame-2.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/search.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 10,
+          "url": "/search.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Header.tsx",
+          "line": 6,
+          "url": "/search.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/heart.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 12,
+          "url": "/heart.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Frame-6.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 14,
+          "url": "/Frame-6.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Frame-7.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 15,
+          "url": "/Frame-7.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 28.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 77,
+          "url": "/Rectangle 28.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 107,
+          "url": "/Rectangle 28.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 28-1.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 87,
+          "url": "/Rectangle 28-1.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 117,
+          "url": "/Rectangle 28-1.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle 28-2.png",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 97,
+          "url": "/Rectangle 28-2.png",
+          "type": "public"
+        },
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 127,
+          "url": "/Rectangle 28-2.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/heart-2.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 391,
+          "url": "/heart-2.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/heart-1.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/app/project-archive/page.tsx",
+          "line": 391,
+          "url": "/heart-1.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Frame-3.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/components/Hero.tsx",
+          "line": 5,
+          "url": "/Frame-3.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Sidebar.tsx",
+          "line": 71,
+          "url": "/Frame-3.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Sidebar.tsx",
+          "line": 149,
+          "url": "/Frame-3.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 6.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/components/Hero.tsx",
+          "line": 7,
+          "url": "/Ellipse 6.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 6-1.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/components/Hero.tsx",
+          "line": 8,
+          "url": "/Ellipse 6-1.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse 2.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/components/Header.tsx",
+          "line": 8,
+          "url": "/Ellipse 2.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Frame-1.svg",
+      "exists": true,
+      "used_in": [
+        {
+          "file": "src/components/Sidebar.tsx",
+          "line": 8,
+          "url": "/Frame-1.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/components/Sidebar.tsx",
+          "line": 9,
+          "url": "/Frame-1.svg",
+          "type": "public"
+        }
+      ]
+    }
+  ],
+  "missing": [
+    {
+      "path": "/Ellipse%206.svg",
+      "exists": false,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 17,
+          "url": "/Ellipse%206.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 18,
+          "url": "/Ellipse%206.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 18,
+          "url": "/Ellipse%206.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 15,
+          "url": "/Ellipse%206.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse%206-1.svg",
+      "exists": false,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/page.tsx",
+          "line": 19,
+          "url": "/Ellipse%206-1.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 20,
+          "url": "/Ellipse%206-1.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 20,
+          "url": "/Ellipse%206-1.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 17,
+          "url": "/Ellipse%206-1.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse%208.svg",
+      "exists": false,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/schedule/page.tsx",
+          "line": 21,
+          "url": "/Ellipse%208.svg",
+          "type": "public"
+        },
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 21,
+          "url": "/Ellipse%208.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse%209.svg",
+      "exists": false,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 22,
+          "url": "/Ellipse%209.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Ellipse%207.svg",
+      "exists": false,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/prize-judge/page.tsx",
+          "line": 23,
+          "url": "/Ellipse%207.svg",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle%2028.png",
+      "exists": false,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 22,
+          "url": "/Rectangle%2028.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle%2028-1.png",
+      "exists": false,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 23,
+          "url": "/Rectangle%2028-1.png",
+          "type": "public"
+        }
+      ]
+    },
+    {
+      "path": "/Rectangle%2028-2.png",
+      "exists": false,
+      "used_in": [
+        {
+          "file": "src/app/hackathon/[id]/submitted-projects/page.tsx",
+          "line": 24,
+          "url": "/Rectangle%2028-2.png",
+          "type": "public"
+        }
+      ]
+    }
+  ]
+}

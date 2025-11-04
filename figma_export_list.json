@@ -1,0 +1,812 @@
+{
+  "summary": {
+    "total": 205,
+    "by_type": {
+      "image": 6,
+      "icon": 141,
+      "unknown": 58
+    }
+  },
+  "images_needed": [
+    {
+      "file": "src/app/page.tsx",
+      "line": 12,
+      "code": "const imgHackathonImage = \"/Rectangle 227.png\";",
+      "type": "image",
+      "suggested_name": "hackathon-image.png",
+      "context": "\n// Image URLs\nconst imgHackathonImage = \"/Rectangle 227.png\";\nconst imgHackathonImage1 = \"/Rectangle 227-1.png\""
+    },
+    {
+      "file": "src/app/page.tsx",
+      "line": 20,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "\n// Line1 divider image\nconst imgLine1 = \"/Vector.svg\";\n\nexport default function Home() {\n  const line1Re"
+    },
+    {
+      "file": "src/app/page.tsx",
+      "line": 80,
+      "code": "<img alt=\"featured\" className=\"block w-full h-full\" src=\"/Vector.svg\" />",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "\n              <div className=\"w-4 h-4 relative\">\n                <img alt=\"featured\" className=\"block w-full h-full\" src=\"/Vector.svg\" />\n              </div>\n              <p className=\""
+    },
+    {
+      "file": "src/app/page.tsx",
+      "line": 89,
+      "code": "<img alt=\"arrow\" className=\"block w-full h-full\" src=\"/Vector.svg\" />",
+      "type": "icon",
+      "suggested_name": "icon-arrow.svg",
+      "context": "\n              <div className=\"w-4 h-4 relative\">\n                <img alt=\"arrow\" className=\"block w-full h-full\" src=\"/Vector.svg\" />\n              </div>\n            </button>\n      "
+    },
+    {
+      "file": "src/app/page.tsx",
+      "line": 108,
+      "code": "<img alt=\"plus\" className=\"block w-full h-full\" src=\"/Vector.svg\" />",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "               <div className=\"w-4 h-4 relative\">\n                       <img alt=\"plus\" className=\"block w-full h-full\" src=\"/Vector.svg\" />\n                     </div>\n                     "
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "\n// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Ve"
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgCalendar = \""
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 11,
+      "code": "const imgX = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgCalendar = \"/Vector.svg\";\nconst imgVecto"
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 12,
+      "code": "const imgCalendar = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgCalendar = \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgLine28 "
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 13,
+      "code": "const imgVector = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "\"/Vector.svg\";\nconst imgCalendar = \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgLine28 = \"/Vector.svg\";\nconst imgLine30 "
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 14,
+      "code": "const imgLine28 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgLine28 = \"/Vector.svg\";\nconst imgLine30 = \"/Vector.svg\";\nconst imgImage ="
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 15,
+      "code": "const imgLine30 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine28 = \"/Vector.svg\";\nconst imgLine30 = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgRectangl"
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 16,
+      "code": "const imgImage = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine30 = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgFr"
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 17,
+      "code": "const imgRectangle21 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgFrame = \"/Vector.svg\";\nconst imgFrame1 ="
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 18,
+      "code": "const imgFrame = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "ector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgFrame = \"/Vector.svg\";\nconst imgFrame1 = \"/Vector.svg\";\n\nexport default "
+    },
+    {
+      "file": "src/app/host/page.tsx",
+      "line": 19,
+      "code": "const imgFrame1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgFrame = \"/Vector.svg\";\nconst imgFrame1 = \"/Vector.svg\";\n\nexport default function HostPage() {\n  const lin"
+    },
+    {
+      "file": "src/app/host/schedule/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "\n// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Ve"
+    },
+    {
+      "file": "src/app/host/schedule/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgVector = \"/V"
+    },
+    {
+      "file": "src/app/host/schedule/page.tsx",
+      "line": 11,
+      "code": "const imgX = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgCheck ="
+    },
+    {
+      "file": "src/app/host/schedule/page.tsx",
+      "line": 12,
+      "code": "const imgVector = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgCheck = \"/Vector.svg\";\nconst imgImage = "
+    },
+    {
+      "file": "src/app/host/schedule/page.tsx",
+      "line": 13,
+      "code": "const imgCheck = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgCheck = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgRectangl"
+    },
+    {
+      "file": "src/app/host/schedule/page.tsx",
+      "line": 14,
+      "code": "const imgImage = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgCheck = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgLi"
+    },
+    {
+      "file": "src/app/host/schedule/page.tsx",
+      "line": 15,
+      "code": "const imgRectangle21 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgLine34 = \"/Vector.svg\";\n\ninterface TimeS"
+    },
+    {
+      "file": "src/app/host/schedule/page.tsx",
+      "line": 16,
+      "code": "const imgLine34 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgLine34 = \"/Vector.svg\";\n\ninterface TimeSlot {\n  id: string;"
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "\n// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Ve"
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgLink = \"/Vec"
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 11,
+      "code": "const imgX = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgLink = \"/Vector.svg\";\nconst imgRectangle"
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 12,
+      "code": "const imgLink = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgLink = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgLi"
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 13,
+      "code": "const imgRectangle21 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "X = \"/Vector.svg\";\nconst imgLink = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgLine34 = \"/Vector.svg\";\nconst imgLine35 "
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 14,
+      "code": "const imgLine34 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\nconst imgLine34 = \"/Vector.svg\";\nconst imgLine35 = \"/Vector.svg\";\nconst imgLine36 "
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 15,
+      "code": "const imgLine35 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine34 = \"/Vector.svg\";\nconst imgLine35 = \"/Vector.svg\";\nconst imgLine36 = \"/Vector.svg\";\nconst imgVector "
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 16,
+      "code": "const imgLine36 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine35 = \"/Vector.svg\";\nconst imgLine36 = \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgVector1"
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 17,
+      "code": "const imgVector = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine36 = \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgVector1 = \"/Vector.svg\";\nconst imgUser ="
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 18,
+      "code": "const imgVector1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgVector1 = \"/Vector.svg\";\nconst imgUser = \"/Vector.svg\";\nconst imgUser1 = \""
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 19,
+      "code": "const imgUser = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": " \"/Vector.svg\";\nconst imgVector1 = \"/Vector.svg\";\nconst imgUser = \"/Vector.svg\";\nconst imgUser1 = \"/Vector.svg\";\nconst imgEllipse1"
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 20,
+      "code": "const imgUser1 = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "1 = \"/Vector.svg\";\nconst imgUser = \"/Vector.svg\";\nconst imgUser1 = \"/Vector.svg\";\nconst imgEllipse15 = \"/Rectangle 227.png\";\nconst "
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 21,
+      "code": "const imgEllipse15 = \"/Rectangle 227.png\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": " = \"/Vector.svg\";\nconst imgUser1 = \"/Vector.svg\";\nconst imgEllipse15 = \"/Rectangle 227.png\";\nconst imgEllipse16 = \"/Rectangle 227.png\";\n\ninter"
+    },
+    {
+      "file": "src/app/host/judges/page.tsx",
+      "line": 22,
+      "code": "const imgEllipse16 = \"/Rectangle 227.png\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": ".svg\";\nconst imgEllipse15 = \"/Rectangle 227.png\";\nconst imgEllipse16 = \"/Rectangle 227.png\";\n\ninterface Judge {\n  id: string;"
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "\n// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Ve"
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgVector = \"/V"
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 11,
+      "code": "const imgX = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgVector1"
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 12,
+      "code": "const imgVector = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgVector1 = \"/Vector.svg\";\nconst imgGroup1"
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 13,
+      "code": "const imgVector1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgVector = \"/Vector.svg\";\nconst imgVector1 = \"/Vector.svg\";\nconst imgGroup1171277299 = \"/Vector.svg\";\nconst i"
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 14,
+      "code": "const imgGroup1171277299 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " \"/Vector.svg\";\nconst imgVector1 = \"/Vector.svg\";\nconst imgGroup1171277299 = \"/Vector.svg\";\nconst imgLine33 = \"/Vector.svg\";\nconst imgLine34 "
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 15,
+      "code": "const imgLine33 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "r.svg\";\nconst imgGroup1171277299 = \"/Vector.svg\";\nconst imgLine33 = \"/Vector.svg\";\nconst imgLine34 = \"/Vector.svg\";\nconst imgLine35 "
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 16,
+      "code": "const imgLine34 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine33 = \"/Vector.svg\";\nconst imgLine34 = \"/Vector.svg\";\nconst imgLine35 = \"/Vector.svg\";\nconst imgRectang"
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 17,
+      "code": "const imgLine35 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine34 = \"/Vector.svg\";\nconst imgLine35 = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\n\nexport def"
+    },
+    {
+      "file": "src/app/host/prizes/page.tsx",
+      "line": 18,
+      "code": "const imgRectangle21 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine35 = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\n\nexport default function HostPrizesPage() {\n  con"
+    },
+    {
+      "file": "src/app/my-community/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ge URLs - using local files from public directory\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\n\nexport default f"
+    },
+    {
+      "file": "src/app/my-community/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " public directory\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\n\nexport default function MyCommunityPage() {\n  co"
+    },
+    {
+      "file": "src/app/my-community/page.tsx",
+      "line": 39,
+      "code": "banner: '/Rectangle 227.png',",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "\n      title: 'HackX India: Co-learning Camp 16',\n      banner: '/Rectangle 227.png',\n      avatar: '/Ellipse 20.svg',\n      missions: "
+    },
+    {
+      "file": "src/app/my-community/[id]/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ge URLs - using local files from public directory\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgFrame5 ="
+    },
+    {
+      "file": "src/app/my-community/[id]/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " public directory\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgFrame5 = \"/Frame-5.svg\";\n\ninterface Comm"
+    },
+    {
+      "file": "src/app/my-community/[id]/page.tsx",
+      "line": 45,
+      "code": "banner: '/Rectangle 227.png',",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "d,\n    title: 'HackX India: Co-learning Camp 16',\n    banner: '/Rectangle 227.png',\n    avatar: '/Ellipse 21.svg',\n    users: 1355,\n "
+    },
+    {
+      "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ge URLs - using local files from public directory\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgMapPin ="
+    },
+    {
+      "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " public directory\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgMapPin = \"/map-pin.svg\";\n\ninterface Lead"
+    },
+    {
+      "file": "src/app/my-community/[id]/leaderboard/page.tsx",
+      "line": 45,
+      "code": "banner: '/Rectangle 227.png',",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "d,\n    title: 'HackX India: Co-learning Camp 16',\n    banner: '/Rectangle 227.png',\n    avatar: '/Ellipse 21.svg',\n    users: 1355,\n "
+    },
+    {
+      "file": "src/app/my-community/[id]/mission/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ge URLs - using local files from public directory\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgFrame5 ="
+    },
+    {
+      "file": "src/app/my-community/[id]/mission/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " public directory\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgFrame5 = \"/Frame-5.svg\";\n\ninterface Miss"
+    },
+    {
+      "file": "src/app/my-community/[id]/mission/page.tsx",
+      "line": 45,
+      "code": "banner: '/Rectangle 227.png',",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "d,\n    title: 'HackX India: Co-learning Camp 16',\n    banner: '/Rectangle 227.png',\n    avatar: '/Ellipse 21.svg',\n    users: 1355,\n "
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-search.svg",
+      "context": "\n// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgSearch ="
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-search.svg",
+      "context": "// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgSearch = \"/Vector.svg\";\nconst imgFrame2 "
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 11,
+      "code": "const imgSearch = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-search.svg",
+      "context": " = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgSearch = \"/Vector.svg\";\nconst imgFrame2 = \"/Vector.svg\";\nconst imgEllipse"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 12,
+      "code": "const imgFrame2 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-search.svg",
+      "context": "= \"/Vector.svg\";\nconst imgSearch = \"/Vector.svg\";\nconst imgFrame2 = \"/Vector.svg\";\nconst imgEllipse2 = \"/Vector.svg\";\nconst imgVecto"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 13,
+      "code": "const imgEllipse2 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-search.svg",
+      "context": "= \"/Vector.svg\";\nconst imgFrame2 = \"/Vector.svg\";\nconst imgEllipse2 = \"/Vector.svg\";\nconst imgVector2 = \"/Vector.svg\";\nconst imgIcon ="
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 14,
+      "code": "const imgVector2 = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "\"/Vector.svg\";\nconst imgEllipse2 = \"/Vector.svg\";\nconst imgVector2 = \"/Vector.svg\";\nconst imgIcon = \"/Vector.svg\";\nconst imgIcon1 = \""
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 15,
+      "code": "const imgIcon = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": " \"/Vector.svg\";\nconst imgVector2 = \"/Vector.svg\";\nconst imgIcon = \"/Vector.svg\";\nconst imgIcon1 = \"/Vector.svg\";\nconst imgIcon2 = "
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 16,
+      "code": "const imgIcon1 = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "2 = \"/Vector.svg\";\nconst imgIcon = \"/Vector.svg\";\nconst imgIcon1 = \"/Vector.svg\";\nconst imgIcon2 = \"/Vector.svg\";\nconst imgGroup208"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 17,
+      "code": "const imgIcon2 = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": " = \"/Vector.svg\";\nconst imgIcon1 = \"/Vector.svg\";\nconst imgIcon2 = \"/Vector.svg\";\nconst imgGroup2085663257 = \"/Vector.svg\";\nconst i"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 18,
+      "code": "const imgGroup2085663257 = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": " = \"/Vector.svg\";\nconst imgIcon2 = \"/Vector.svg\";\nconst imgGroup2085663257 = \"/Vector.svg\";\nconst imgRectangle9 = \"/Rectangle 227.png\";\nconst"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 19,
+      "code": "const imgRectangle9 = \"/Rectangle 227.png\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "r.svg\";\nconst imgGroup2085663257 = \"/Vector.svg\";\nconst imgRectangle9 = \"/Rectangle 227.png\";\nconst imgRectangle10 = \"/Rectangle 227.png\";\ncons"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 20,
+      "code": "const imgRectangle10 = \"/Rectangle 227.png\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "svg\";\nconst imgRectangle9 = \"/Rectangle 227.png\";\nconst imgRectangle10 = \"/Rectangle 227.png\";\nconst imgRectangle11 = \"/Rectangle 227.png\";\ncons"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 21,
+      "code": "const imgRectangle11 = \"/Rectangle 227.png\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "ng\";\nconst imgRectangle10 = \"/Rectangle 227.png\";\nconst imgRectangle11 = \"/Rectangle 227.png\";\nconst imgRectangle12 = \"/Rectangle 227.png\";\ncons"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 22,
+      "code": "const imgRectangle12 = \"/Rectangle 227.png\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "ng\";\nconst imgRectangle11 = \"/Rectangle 227.png\";\nconst imgRectangle12 = \"/Rectangle 227.png\";\nconst imgRectangle28 = \"/Rectangle 227.png\";\n\nexp"
+    },
+    {
+      "file": "src/app/dashboard/page.tsx",
+      "line": 23,
+      "code": "const imgRectangle28 = \"/Rectangle 227.png\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ng\";\nconst imgRectangle12 = \"/Rectangle 227.png\";\nconst imgRectangle28 = \"/Rectangle 227.png\";\n\nexport default function DashboardPage() {\n  cons"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 9,
+      "code": "const imgLine1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "\n// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Ve"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 10,
+      "code": "const imgLine9 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "// Image URLs\nconst imgLine1 = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgImage = \"/Ve"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 11,
+      "code": "const imgX = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgLine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgIcon = \""
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 12,
+      "code": "const imgImage = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "ine9 = \"/Vector.svg\";\nconst imgX = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgIcon = \"/Vector.svg\";\nconst imgGroup2085"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 13,
+      "code": "const imgIcon = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgImage = \"/Vector.svg\";\nconst imgIcon = \"/Vector.svg\";\nconst imgGroup2085663257 = \"/Vector.svg\";\nconst i"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 14,
+      "code": "const imgGroup2085663257 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "e = \"/Vector.svg\";\nconst imgIcon = \"/Vector.svg\";\nconst imgGroup2085663257 = \"/Vector.svg\";\nconst imgLine28 = \"/Vector.svg\";\nconst imgLine30 "
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 15,
+      "code": "const imgLine28 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "r.svg\";\nconst imgGroup2085663257 = \"/Vector.svg\";\nconst imgLine28 = \"/Vector.svg\";\nconst imgLine30 = \"/Vector.svg\";\nconst imgIcon1 ="
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 16,
+      "code": "const imgLine30 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine28 = \"/Vector.svg\";\nconst imgLine30 = \"/Vector.svg\";\nconst imgIcon1 = \"/Vector.svg\";\nconst imgIcon2 = "
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 17,
+      "code": "const imgIcon1 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine30 = \"/Vector.svg\";\nconst imgIcon1 = \"/Vector.svg\";\nconst imgIcon2 = \"/Vector.svg\";\nconst imgIcon3 = "
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 18,
+      "code": "const imgIcon2 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgIcon1 = \"/Vector.svg\";\nconst imgIcon2 = \"/Vector.svg\";\nconst imgIcon3 = \"/Vector.svg\";\nconst imgBold = \""
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 19,
+      "code": "const imgIcon3 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgIcon2 = \"/Vector.svg\";\nconst imgIcon3 = \"/Vector.svg\";\nconst imgBold = \"/Vector.svg\";\nconst imgItalic = "
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 20,
+      "code": "const imgBold = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgIcon3 = \"/Vector.svg\";\nconst imgBold = \"/Vector.svg\";\nconst imgItalic = \"/Vector.svg\";\nconst imgUnderli"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 21,
+      "code": "const imgItalic = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "3 = \"/Vector.svg\";\nconst imgBold = \"/Vector.svg\";\nconst imgItalic = \"/Vector.svg\";\nconst imgUnderline = \"/Vector.svg\";\nconst imgStri"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 22,
+      "code": "const imgUnderline = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgItalic = \"/Vector.svg\";\nconst imgUnderline = \"/Vector.svg\";\nconst imgStrikethrough = \"/Vector.svg\";\nconst img"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 23,
+      "code": "const imgStrikethrough = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "/Vector.svg\";\nconst imgUnderline = \"/Vector.svg\";\nconst imgStrikethrough = \"/Vector.svg\";\nconst imgIcon4 = \"/Vector.svg\";\nconst imgIcon5 = "
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 24,
+      "code": "const imgIcon4 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "tor.svg\";\nconst imgStrikethrough = \"/Vector.svg\";\nconst imgIcon4 = \"/Vector.svg\";\nconst imgIcon5 = \"/Vector.svg\";\nconst imgTextColo"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 25,
+      "code": "const imgIcon5 = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": " = \"/Vector.svg\";\nconst imgIcon4 = \"/Vector.svg\";\nconst imgIcon5 = \"/Vector.svg\";\nconst imgTextColor = \"/Vector.svg\";\nconst imgLink"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 26,
+      "code": "const imgTextColor = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": " = \"/Vector.svg\";\nconst imgIcon5 = \"/Vector.svg\";\nconst imgTextColor = \"/Vector.svg\";\nconst imgLink = \"/Vector.svg\";\nconst imgImage1 = "
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 27,
+      "code": "const imgLink = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "/Vector.svg\";\nconst imgTextColor = \"/Vector.svg\";\nconst imgLink = \"/Vector.svg\";\nconst imgImage1 = \"/Vector.svg\";\nconst imgIcon6 ="
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 28,
+      "code": "const imgImage1 = \"/Vector.svg\";",
+      "type": "unknown",
+      "suggested_name": null,
+      "context": "r = \"/Vector.svg\";\nconst imgLink = \"/Vector.svg\";\nconst imgImage1 = \"/Vector.svg\";\nconst imgIcon6 = \"/Vector.svg\";\nconst imgIcon7 = "
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 29,
+      "code": "const imgIcon6 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgImage1 = \"/Vector.svg\";\nconst imgIcon6 = \"/Vector.svg\";\nconst imgIcon7 = \"/Vector.svg\";\nconst imgIcon8 = "
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 30,
+      "code": "const imgIcon7 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgIcon6 = \"/Vector.svg\";\nconst imgIcon7 = \"/Vector.svg\";\nconst imgIcon8 = \"/Vector.svg\";\nconst imgLine32 ="
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 31,
+      "code": "const imgIcon8 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgIcon7 = \"/Vector.svg\";\nconst imgIcon8 = \"/Vector.svg\";\nconst imgLine32 = \"/Vector.svg\";\nconst imgRectang"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 32,
+      "code": "const imgLine32 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": " = \"/Vector.svg\";\nconst imgIcon8 = \"/Vector.svg\";\nconst imgLine32 = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\n\n// Project"
+    },
+    {
+      "file": "src/app/dashboard/projects/create/page.tsx",
+      "line": 33,
+      "code": "const imgRectangle21 = \"/Vector.svg\";",
+      "type": "icon",
+      "suggested_name": "icon-divider.svg",
+      "context": "= \"/Vector.svg\";\nconst imgLine32 = \"/Vector.svg\";\nconst imgRectangle21 = \"/Vector.svg\";\n\n// Project Sidebar Component\nconst ProjectSideba"
+    }
+  ]
+}
