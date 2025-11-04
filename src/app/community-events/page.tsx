@@ -97,6 +97,8 @@ const events: Event[] = [
 export default function CommunityEventsPage() {
   const line1Ref = useRef<HTMLDivElement>(null);
   const [selectedEvent, setSelectedEvent] = useState<Event | null>(null);
+  const [isClosing, setIsClosing] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
 
   useEffect(() => {
     const updateLine1Position = () => {
@@ -116,6 +118,15 @@ export default function CommunityEventsPage() {
       window.removeEventListener('resize', updateLine1Position);
     };
   }, []);
+
+  useEffect(() => {
+    if (selectedEvent) {
+      setIsOpen(true);
+      setIsClosing(false);
+    } else {
+      setIsOpen(false);
+    }
+  }, [selectedEvent]);
 
   return (
     <div className="bg-bg-dark min-h-screen w-full flex relative">
@@ -285,13 +296,32 @@ export default function CommunityEventsPage() {
         </div>
       </main>
 
-      {/* Event Detail Modal - Rectangle 237 */}
+      {/* Event Detail Modal - Rectangle 236 (Backdrop) and Rectangle 237 (Modal) */}
       {selectedEvent && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
-          <div className="bg-bg-darker rounded-2xl w-full max-w-[616px] max-h-[90vh] overflow-y-auto relative">
+        <div className="fixed inset-0 z-50 flex items-end justify-end">
+          {/* Rectangle 236 - Backdrop */}
+          <div 
+            className={`fixed inset-0 bg-black/70 z-40 transition-opacity duration-300 ${
+              isClosing ? 'opacity-0' : 'opacity-100'
+            }`}
+            onClick={() => {
+              setIsClosing(true);
+              setTimeout(() => setSelectedEvent(null), 300);
+            }}
+          />
+          
+          {/* Rectangle 237 - Modal sliding from right */}
+          <div 
+            className={`bg-bg-darker rounded-t-2xl w-full max-w-[616px] h-full max-h-screen overflow-y-auto relative z-50 transform transition-transform duration-300 ease-out ${
+              isOpen && !isClosing ? 'translate-x-0' : 'translate-x-full'
+            }`}
+          >
             {/* Close Button */}
             <button
-              onClick={() => setSelectedEvent(null)}
+              onClick={() => {
+                setIsClosing(true);
+                setTimeout(() => setSelectedEvent(null), 300);
+              }}
               className="absolute top-4 right-4 w-8 h-8 flex items-center justify-center text-white hover:text-primary transition-colors z-10"
             >
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
