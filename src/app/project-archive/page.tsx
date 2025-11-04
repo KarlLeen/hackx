@@ -43,7 +43,7 @@ export default function ProjectArchivePage() {
       id: 1,
       title: 'Dunk Verse',
       description: 'A Mobile Dapp which offers AI-Driven Quizzes, NFT-Powered Social Media, and Blockchain Betting fully on-chain.',
-      image: '/source/3ae89711bfa7cb844849ef1d0b3239c72ae16fa8.jpg',
+      image: '/figma-exported/dunk.png',
       likes: 55589,
       prize: 'Third Prize, Mantle APAC Hackathon',
       builders: [
