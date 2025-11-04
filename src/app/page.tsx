@@ -68,8 +68,8 @@ export default function Home() {
         <Header />
 
         {/* Content Container - centered within available space */}
-        <div className="flex-1 w-full flex justify-center items-start px-4 md:px-8 lg:px-12 xl:px-16">
-          <div className="w-full max-w-[1100px] 2xl:max-w-[1300px] py-6 md:py-8 lg:py-10">
+        <div className="flex-1 w-full flex justify-center items-start">
+          <div className="w-full max-w-[1100px] 2xl:max-w-[1300px] px-4 md:px-8 lg:px-12 xl:px-16 py-6 md:py-8 lg:py-10">
           {/* Hero Section */}
           <div className="relative mb-6 md:mb-8 lg:mb-12">
             <Hero />
