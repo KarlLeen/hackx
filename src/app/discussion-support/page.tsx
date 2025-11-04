@@ -160,9 +160,10 @@ export default function DiscussionSupportPage() {
               ) : (
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
                   {organizations.map((org) => (
-                    <div
+                    <Link
                       key={org.id}
-                      className="border border-border-darker rounded-2xl p-4 md:p-6 hover:border-primary/30 transition-colors"
+                      href={`/discussion-support/${org.id}`}
+                      className="border border-border-darker rounded-2xl p-4 md:p-6 hover:border-primary/30 transition-colors cursor-pointer"
                     >
                       {/* Organization Image */}
                       <div className="w-18 h-18 md:w-20 md:h-20 rounded-lg overflow-hidden mb-4">
@@ -182,7 +183,7 @@ export default function DiscussionSupportPage() {
                       <p className="text-white text-sm opacity-60 leading-relaxed">
                         {org.description}
                       </p>
-                    </div>
+                    </Link>
                   ))}
                 </div>
               )}
@@ -196,9 +197,10 @@ export default function DiscussionSupportPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
                 {organizations.map((org) => (
-                  <div
+                  <Link
                     key={`second-${org.id}`}
-                    className="border border-border-darker rounded-2xl p-4 md:p-6 hover:border-primary/30 transition-colors"
+                    href={`/discussion-support/${org.id}`}
+                    className="border border-border-darker rounded-2xl p-4 md:p-6 hover:border-primary/30 transition-colors cursor-pointer"
                   >
                     {/* Organization Image */}
                     <div className="w-18 h-18 md:w-20 md:h-20 rounded-lg overflow-hidden mb-4">
@@ -214,12 +216,12 @@ export default function DiscussionSupportPage() {
                       {org.name}
                     </h3>
 
-                    {/* Organization Description */}
-                    <p className="text-white text-sm opacity-60 leading-relaxed">
-                      {org.description}
-                    </p>
-                  </div>
-                ))}
+                      {/* Organization Description */}
+                      <p className="text-white text-sm opacity-60 leading-relaxed">
+                        {org.description}
+                      </p>
+                    </Link>
+                  ))}
               </div>
             </div>
           </div>
