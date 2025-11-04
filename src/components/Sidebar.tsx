@@ -5,9 +5,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
 const logoContainerSvg = "/Logo Container.svg";
-const imgFrame = "/Frame-1.svg";
-const imgFrame1 = "/Frame-1.svg";
-const imgFrame2 = "/Frame-2.svg";
+const sidebarIcon = "/figma-exported/sidebaricon.svg";
 const imgLine6 = "/Vector.svg";
 
 const Sidebar: React.FC = () => {
@@ -33,10 +31,10 @@ const Sidebar: React.FC = () => {
         </div>
 
         {/* Quest Container */}
-        <div className="flex flex-col gap-6 mb-6 relative pb-6">
+        <div className="flex flex-col relative pb-2">
           <div className="flex gap-2 items-center py-2 px-2">
             <div className="w-4 h-4 relative shrink-0">
-              <img alt="" className="block w-full h-full" src={imgFrame} />
+              <img alt="" className="block w-full h-full" src={sidebarIcon} />
             </div>
             <p className="font-normal text-text-secondary text-sm">Quest</p>
           </div>
@@ -48,7 +46,7 @@ const Sidebar: React.FC = () => {
         </div>
 
         {/* Certifications Container */}
-        <div className="flex flex-col gap-6 mb-6 relative pb-6">
+        <div className="flex flex-col gap-2 relative pb-2">
           {/* My Certifications - with highlight background if on /certifications */}
           <Link href="/certifications" className="relative py-2 px-1 block">
             {isCertificationsPage && (
@@ -56,7 +54,7 @@ const Sidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src={imgFrame} />
+                <img alt="" className="block w-full h-full" src={sidebarIcon} />
               </div>
               <p className={`text-sm ${isCertificationsPage ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>My Certifications</p>
             </div>
@@ -68,7 +66,7 @@ const Sidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src="/Frame-3.svg" />
+                <img alt="" className="block w-full h-full" src={sidebarIcon} />
               </div>
               <p className={`text-sm ${isCoursesPage ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Explore Courses</p>
             </div>
@@ -82,7 +80,7 @@ const Sidebar: React.FC = () => {
 
         {/* Dashboard Container - Different content for Host page */}
         {isHostPage ? (
-          <div className="flex flex-col gap-4 mb-6 relative pb-6">
+          <div className="flex flex-col gap-2 relative pb-2">
             {/* Overview - with highlight background if on /host */}
             <Link href="/host" className="relative py-2 px-1 block">
               {pathname === '/host' && (
@@ -90,7 +88,7 @@ const Sidebar: React.FC = () => {
               )}
               <div className="relative flex gap-2 items-center px-2">
                 <div className="w-4 h-4 relative shrink-0">
-                  <img alt="" className="block w-full h-full" src={imgFrame} />
+                  <img alt="" className="block w-full h-full" src={sidebarIcon} />
                 </div>
                 <p className={`text-sm ${pathname === '/host' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Overview</p>
               </div>
@@ -102,7 +100,7 @@ const Sidebar: React.FC = () => {
               )}
               <div className="relative flex gap-2 items-center px-2">
                 <div className="w-4 h-4 relative shrink-0">
-                  <img alt="" className="block w-full h-full" src={imgFrame1} />
+                  <img alt="" className="block w-full h-full" src={sidebarIcon} />
                 </div>
                 <p className={`text-sm ${pathname === '/host/prizes' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Prizes</p>
               </div>
@@ -114,7 +112,7 @@ const Sidebar: React.FC = () => {
               )}
               <div className="relative flex gap-2 items-center px-2">
                 <div className="w-4 h-4 relative shrink-0">
-                  <img alt="" className="block w-full h-full" src={imgFrame1} />
+                  <img alt="" className="block w-full h-full" src={sidebarIcon} />
                 </div>
                 <p className={`text-sm ${pathname === '/host/judges' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Judges</p>
               </div>
@@ -126,7 +124,7 @@ const Sidebar: React.FC = () => {
               )}
               <div className="relative flex gap-2 items-center px-2">
                 <div className="w-4 h-4 relative shrink-0">
-                  <img alt="" className="block w-full h-full" src={imgFrame1} />
+                  <img alt="" className="block w-full h-full" src={sidebarIcon} />
                 </div>
                 <p className={`text-sm ${pathname === '/host/schedule' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Schedule</p>
               </div>
@@ -138,7 +136,7 @@ const Sidebar: React.FC = () => {
             </div>
           </div>
         ) : (
-          <div className="flex flex-col gap-4 mb-6 relative pb-6">
+          <div className="flex flex-col gap-2 relative pb-2">
             {/* Dashboard - with highlight background if on /dashboard or its subpages (but not /dashboard/projects/create) */}
             <Link href="/dashboard" className={`relative py-2 px-1 block`}>
               {isDashboardPage && (
@@ -146,7 +144,7 @@ const Sidebar: React.FC = () => {
               )}
               <div className="relative flex gap-2 items-center px-2">
                 <div className="w-4 h-4 relative shrink-0">
-                  <img alt="" className="block w-full h-full" src="/Frame-3.svg" />
+                  <img alt="" className="block w-full h-full" src={sidebarIcon} />
                 </div>
                 <p className={`text-sm ${isDashboardPage ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Dashboard</p>
               </div>
@@ -158,7 +156,7 @@ const Sidebar: React.FC = () => {
               )}
               <div className="relative flex gap-2 items-center px-2">
                 <div className="w-4 h-4 relative shrink-0">
-                  <img alt="" className="block w-full h-full" src={imgFrame2} />
+                  <img alt="" className="block w-full h-full" src={sidebarIcon} />
                 </div>
                 <p className={`text-sm ${isHomePage ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Explore Hackatons</p>
               </div>
@@ -170,7 +168,7 @@ const Sidebar: React.FC = () => {
               )}
               <div className="relative flex gap-2 items-center px-2">
                 <div className="w-4 h-4 relative shrink-0">
-                  <img alt="" className="block w-full h-full" src={imgFrame} />
+                  <img alt="" className="block w-full h-full" src={sidebarIcon} />
                 </div>
                 <p className={`text-sm ${isProjectArchivePage ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Project Archive</p>
               </div>
@@ -184,7 +182,7 @@ const Sidebar: React.FC = () => {
         )}
 
         {/* Sidebar Container */}
-        <div className="flex flex-col gap-4">
+        <div className="flex flex-col gap-2">
           {/* My Community - with highlight background if on /my-community */}
           <Link href="/my-community" className="relative py-2 px-1 block">
             {isMyCommunityPage && (
@@ -192,38 +190,38 @@ const Sidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src={imgFrame} />
+                <img alt="" className="block w-full h-full" src={sidebarIcon} />
               </div>
               <p className={`text-sm ${isMyCommunityPage ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>My Community</p>
             </div>
           </Link>
           <div className="flex gap-2 items-center py-2 px-2">
             <div className="w-4 h-4 relative shrink-0">
-              <img alt="" className="block w-full h-full" src={imgFrame} />
+              <img alt="" className="block w-full h-full" src={sidebarIcon} />
             </div>
             <p className="font-normal text-text-secondary text-sm">Community Events</p>
           </div>
           <div className="flex gap-2 items-center py-2 px-2">
             <div className="w-4 h-4 relative shrink-0">
-              <img alt="" className="block w-full h-full" src={imgFrame} />
+              <img alt="" className="block w-full h-full" src={sidebarIcon} />
             </div>
             <p className="font-normal text-text-secondary text-sm">Learning Camps</p>
           </div>
           <div className="flex gap-2 items-center py-2 px-2">
             <div className="w-4 h-4 relative shrink-0">
-              <img alt="" className="block w-full h-full" src={imgFrame} />
+              <img alt="" className="block w-full h-full" src={sidebarIcon} />
             </div>
             <p className="font-normal text-text-secondary text-sm">Discussion & Support</p>
           </div>
           <div className="flex gap-2 items-center py-2 px-2">
             <div className="w-4 h-4 relative shrink-0">
-              <img alt="" className="block w-full h-full" src={imgFrame} />
+              <img alt="" className="block w-full h-full" src={sidebarIcon} />
             </div>
             <p className="font-normal text-text-secondary text-sm">Advocate Program</p>
           </div>
           <div className="flex gap-2 items-center py-2 px-2">
             <div className="w-4 h-4 relative shrink-0">
-              <img alt="" className="block w-full h-full" src={imgFrame} />
+              <img alt="" className="block w-full h-full" src={sidebarIcon} />
             </div>
             <p className="font-normal text-text-secondary text-sm">More</p>
           </div>
