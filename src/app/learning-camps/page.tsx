@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useEffect, useRef } from 'react';
+import Link from 'next/link';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
@@ -176,9 +177,12 @@ export default function LearningCampsPage() {
                     {/* Camp Header */}
                     <div className="flex flex-col gap-2">
                       <div className="flex flex-wrap items-center gap-2">
-                        <h3 className="text-white text-base md:text-lg font-semibold">
+                        <Link 
+                          href={`/learning-camps/${camp.id}`}
+                          className="text-white text-base md:text-lg font-semibold hover:text-primary transition-colors cursor-pointer"
+                        >
                           {camp.title}
-                        </h3>
+                        </Link>
                         <div className={`${getStatusBgColor(camp.status)} rounded-2xl px-3 py-1`}>
                           <p className="text-white text-xs font-semibold">
                             {camp.status}
