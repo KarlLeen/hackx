@@ -63,7 +63,7 @@ export default function Home() {
       </div>
       
       {/* Main Content Area */}
-      <main className="flex-1 flex flex-col min-h-screen md:ml-sidebar-sm lg:ml-sidebar relative bg-bg-dark">
+      <main className="flex-1 flex flex-col min-h-screen relative bg-bg-dark">
         {/* Header - full width */}
         <Header />
 
