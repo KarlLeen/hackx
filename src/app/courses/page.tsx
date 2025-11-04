@@ -11,15 +11,16 @@ const imgLine9 = "/Vector.svg";
 const imgVector2 = "/Vector.svg";
 const imgThumbsUp = "/Vector.svg";
 const imgGroup2085663279 = "/Vector.svg";
-const imgSolanaSymbolPng = "/Rectangle 227.png";
-const imgSolanaSymbolPng1 = "/Rectangle 227.png";
-const imgSolanaSymbolPng2 = "/Rectangle 227.png";
-const imgSolanaSymbolPng3 = "/Rectangle 227.png";
-const imgSolanaSymbolPng4 = "/Rectangle 227.png";
-const imgSolanaSymbolPng5 = "/Rectangle 227.png";
-const imgSolanaSymbolPng6 = "/Rectangle 227.png";
-const imgSolanaSymbolPng7 = "/Rectangle 227.png";
-const imgSolanaSymbolPng8 = "/Rectangle 227.png";
+// Course logos
+const imgSolana = "/figma-exported/solana.png";
+const imgMantle = "/figma-exported/mantel.png";
+const imgPolygon = "/figma-exported/Polygon Network.png";
+const imgSui = "/figma-exported/sui.png";
+const imgINJ = "/figma-exported/INJ.png";
+const imgARB = "/figma-exported/ARB.png";
+const imgLinea = "/figma-exported/Linea.png";
+const imgSonic = "/figma-exported/sonic.png";
+const imgMonad = "/figma-exported/monad.png";
 
 interface Course {
   id: string;
@@ -61,7 +62,7 @@ export default function CoursesPage() {
       id: '1',
       title: 'Solana Ecosystem',
       description: 'Built with Rust, Solana is known for speed and low costs. You&apos;ll learn Solana basics, smart contracts with Rust and Anchor, plus NFT contracts and game development.',
-      logo: imgSolanaSymbolPng,
+      logo: imgSolana,
       logoBg: 'bg-black',
       certification: { by: 'Solana Labs', type: 'certified' },
       tags: ['Rust', 'Beginner-friendly', 'Certificate'],
@@ -70,7 +71,7 @@ export default function CoursesPage() {
       id: '2',
       title: 'Mantle Blockchain',
       description: 'Mantle Network, a fast-growing Ethereum L2, offers a hands-on path to mastering Solidity. You&apos;ll progress from basic syntax to advanced projects like launching tokens, NFTs, and even a "CryptoKitty."',
-      logo: imgSolanaSymbolPng1,
+      logo: imgMantle,
       logoBg: 'bg-black',
       certification: { by: 'Mantle', type: 'certified' },
       tags: ['Rust', 'Beginner-friendly', 'Certificate'],
@@ -79,7 +80,7 @@ export default function CoursesPage() {
       id: '3',
       title: 'Polygon Network',
       description: 'Learn to build scalable decentralized applications on the Polygon network using Solidity and JavaScript. Master the intricacies of Layer 2 solutions and dive into real-world use cases.',
-      logo: imgSolanaSymbolPng2,
+      logo: imgPolygon,
       logoBg: 'bg-white',
       certification: { by: 'Polygon', type: 'certified' },
       tags: ['Solidity', 'Intermediate', 'Certificate'],
@@ -88,7 +89,7 @@ export default function CoursesPage() {
       id: '4',
       title: 'Sui Developer',
       description: 'Sui is a high-performance Layer-1 blockchain platform that employs innovative parallel execution and object ownership models, greatly enhancing transaction processing speed and throughput. Sui supports smart contract development using the Move programming language, with a strong focus on security and asset ownership. In this Learning Track, we will explore the core features of Sui Network and the Move programming language, guiding you step-by-step through the development, testing, and deployment of smart contracts on Sui via practical projects.',
-      logo: imgSolanaSymbolPng3,
+      logo: imgSui,
       logoBg: 'bg-black',
       certification: { by: 'Polygon', type: 'in-progress' },
       tags: ['Solidity', 'Intermediate', 'Certificate'],
@@ -97,7 +98,7 @@ export default function CoursesPage() {
       id: '5',
       title: 'Injective Developer',
       description: 'Injective is a lightning fast interoperable layer one blockchain optimized for building the premier Web3 finance applications. Injective uniquely provides developers with powerful plug-and-play financial infrastructure primitives, such as a high performance on-chain decentralized exchange infrastructure, decentralized bridges, oracles, and a composable smart contract layer with CosmWasm. Injective is incubated by Binance and is backed by prominent investors such as Jump Crypto, Pantera and Mark Cuban.',
-      logo: imgSolanaSymbolPng4,
+      logo: imgINJ,
       logoBg: 'bg-[#14151a]',
       tags: ['Rust', 'Beginner-friendly', 'Certificate'],
     },
@@ -105,7 +106,7 @@ export default function CoursesPage() {
       id: '6',
       title: 'Arbitrum Ecosystem',
       description: 'Arbitrum is the leading layer-2 (L2) that empowers users like you to explore and build in the largest layer-1 (L1) ecosystem, Ethereum. In this learning track, we will introduce the ecosystem and architecture of Arbitrum, learn Rust syntax and the Stylus library, and together build some classic projects such as a Bulls and Cows game, a token, an NFT, and DeFi smart vaults.',
-      logo: imgSolanaSymbolPng5,
+      logo: imgARB,
       logoBg: 'bg-black',
       tags: ['Solidity', 'Intermediate', 'Certificate'],
     },
@@ -113,7 +114,7 @@ export default function CoursesPage() {
       id: '7',
       title: 'Linea Blockchain',
       description: 'Linea Network, an Ethereum layer-2 (L2) solution, is one of the most promising advancements in Ethereum&apos;s scalability landscape. In this ecosystem, we will start with a comprehensive introduction to the Linea ecosystem, progressing from basic Solidity syntax to advanced guided projects. Through this journey, you will develop skills to launch tokens, implement NFT Dutch Auctions, and build a decentralized social DApp. All projects can be deployed on the Linea Mainnet or Testnet, offering practical, hands-on experience within the Linea ecosystem.',
-      logo: imgSolanaSymbolPng6,
+      logo: imgLinea,
       logoBg: 'bg-black',
       tags: ['Haskell', 'Advanced', 'Certificate'],
     },
@@ -121,7 +122,7 @@ export default function CoursesPage() {
       id: '8',
       title: 'Sonic Developer',
       description: 'Sonic is a high-performance network evolved from Fantom, aiming to address the blockchain "trilemma" of decentralization, security, and scalability. It achieves impressive performance with 10,000 TPS, sub-second finality, and transaction costs below $0.01. Additionally, Sonic introduces the innovative Fee Monetization (FeeM) mechanism, enhancing user experience and developer adoption, paving the way for the growth of decentralized ecosystems.',
-      logo: imgSolanaSymbolPng7,
+      logo: imgSonic,
       logoBg: 'bg-white',
       tags: ['Rust', 'Beginner-friendly', 'Certificate'],
     },
@@ -129,7 +130,7 @@ export default function CoursesPage() {
       id: '9',
       title: 'Monad Ecosystem',
       description: 'Monad is a high-performance, Ethereum-compatible Layer 1 blockchain designed to maximize throughput and minimize transaction costs. With innovations in MonadBFT consensus, Parallel Execution, and MonadDB, Monad achieves 10,000 TPS while maintaining full compatibility with the EVM and Ethereum ecosystem. Developers can seamlessly build dApps using Solidity, Foundry, Hardhat, and other familiar tools. If you&apos;re looking to explore Monad and master its core technology, this course will take you from the basics to hands-on development—getting you up and running in no time!',
-      logo: imgSolanaSymbolPng8,
+      logo: imgMonad,
       logoBg: 'bg-[#200053]',
       tags: ['Solidity', 'Intermediate', 'Certificate'],
     },
