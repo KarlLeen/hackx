@@ -318,9 +318,6 @@ export default function CommunityEventsPage() {
             className={`bg-bg-darker rounded-t-2xl w-full max-w-[616px] h-full max-h-screen overflow-y-auto relative z-50 transform transition-transform duration-300 ease-out ${
               isOpen && !isClosing ? 'translate-x-0' : 'translate-x-full'
             }`}
-            style={{
-              transform: isOpen && !isClosing ? 'translateX(0)' : 'translateX(100%)',
-            }}
           >
             {/* Close Button */}
             <button
