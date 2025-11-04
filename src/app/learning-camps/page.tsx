@@ -12,8 +12,8 @@ const imgVector2 = "/Vector.svg";
 const imgCamp1 = "/figma-exported/Hackathon Image1.png";
 const imgCamp2 = "/figma-exported/Hackathon Image2.png";
 const imgCamp3 = "/figma-exported/Hackathon Image3.png";
-// Register icon - using placeholder, will need to be replaced
-const imgRegisterIcon = "/Vector.svg";
+// Register icon - using arrow icon
+const imgRegisterIcon = "/arrow-left.svg";
 
 // Camp type definition
 interface Camp {
