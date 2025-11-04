@@ -198,7 +198,7 @@ export default function MyCommunityPage() {
 
                       {/* Join Button */}
                       {!community.hasJoined && (
-                        <button className="w-full bg-[#121213] hover:bg-[#1a1a1d] text-white px-4 py-2.5 rounded-lg text-sm md:text-base font-medium transition-colors">
+                        <button className="w-full bg-[#121213] hover:bg-[#1a1a1d] text-white px-4 py-2.5 rounded-lg text-sm md:text-base font-medium transition-colors flex items-center justify-center">
                           Join Community
                         </button>
                       )}

@@ -163,7 +163,7 @@ export default function HackathonPage() {
 
               <div className="flex items-center gap-4">
                 <p className="text-[#14b92d] text-sm md:text-base font-medium">90% completed</p>
-                <button className="bg-primary hover:bg-primary/90 text-white px-4 py-2 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base transition-opacity">
+                <button className="bg-primary hover:bg-primary/90 text-white px-4 py-2 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base transition-opacity flex items-center justify-center">
                   Create Project
                 </button>
               </div>

@@ -182,7 +182,7 @@ export default function CreateProjectPage() {
 
               <div className="flex items-center gap-4">
                 <p className="text-[#f44e4e] text-sm md:text-base font-medium">0% completed</p>
-                <button className="bg-primary opacity-40 hover:opacity-60 text-white px-4 py-2 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base transition-opacity">
+                <button className="bg-primary opacity-40 hover:opacity-60 text-white px-4 py-2 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base transition-opacity flex items-center justify-center">
                   Create Project
                 </button>
               </div>
@@ -214,7 +214,7 @@ export default function CreateProjectPage() {
                     <p className="text-[#738b9f] text-xs leading-tight mb-1">
                       logo here or:
                     </p>
-                    <button className="text-primary text-sm font-semibold hover:text-primary/80 transition-colors">
+                    <button className="text-primary text-sm font-semibold hover:text-primary/80 transition-colors flex items-center justify-center">
                       Click to browse
                     </button>
                   </div>
@@ -293,7 +293,7 @@ export default function CreateProjectPage() {
                       <button
                         key={sector}
                         onClick={() => handleSectorToggle(sector)}
-                        className={`border border-[#738b9f] rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors ${
+                        className={`border border-[#738b9f] rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors flex items-center justify-center ${
                           formData.sectors.includes(sector) ? 'bg-primary/20 border-primary' : ''
                         }`}
                       >
@@ -306,7 +306,7 @@ export default function CreateProjectPage() {
                       <button
                         key={sector}
                         onClick={() => handleSectorToggle(sector)}
-                        className={`border border-[#738b9f] rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors ${
+                        className={`border border-[#738b9f] rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors flex items-center justify-center ${
                           formData.sectors.includes(sector) ? 'bg-primary/20 border-primary' : ''
                         }`}
                       >

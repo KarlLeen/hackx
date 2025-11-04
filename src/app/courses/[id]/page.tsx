@@ -241,7 +241,7 @@ export default function CourseDetailPage({ params }: CourseDetailPageProps) {
                     <p className="text-white text-sm md:text-base font-medium text-center">
                       {courseData.quiz.title}
                     </p>
-                    <button className="bg-primary hover:bg-primary/90 text-white px-4 py-2.5 rounded-md text-sm md:text-base font-medium transition-colors">
+                    <button className="bg-primary hover:bg-primary/90 text-white px-4 py-2.5 rounded-md text-sm md:text-base font-medium transition-colors flex items-center justify-center">
                       {courseData.quiz.buttonText}
                     </button>
                   </div>

@@ -172,7 +172,7 @@ export default function RegisterPage({ params }: RegisterPageProps) {
                 </div>
 
                 {/* Finish Registration Button */}
-                <button className="w-full bg-primary hover:bg-primary/90 text-white px-4 py-4 md:py-5 rounded-lg font-semibold text-base md:text-lg transition-colors">
+                <button className="w-full bg-primary hover:bg-primary/90 text-white px-4 py-4 md:py-5 rounded-lg font-semibold text-base md:text-lg transition-colors flex items-center justify-center">
                   Finish Registration
                 </button>
               </div>

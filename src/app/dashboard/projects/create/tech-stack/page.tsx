@@ -187,7 +187,7 @@ export default function TechStackPage() {
 
               <div className="flex items-center gap-4">
                 <p className="text-[#f44e4e] text-sm md:text-base font-medium">40% completed</p>
-                <button className="bg-primary opacity-40 hover:opacity-60 text-white px-4 py-2 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base transition-opacity">
+                <button className="bg-primary opacity-40 hover:opacity-60 text-white px-4 py-2 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base transition-opacity flex items-center justify-center">
                   Create Project
                 </button>
               </div>
@@ -299,7 +299,7 @@ export default function TechStackPage() {
                         key={tag}
                         onClick={() => handleTagToggle(tag)}
                         disabled={formData.selectedTags.includes(tag)}
-                        className={`border rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors ${
+                        className={`border rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors flex items-center justify-center ${
                           formData.selectedTags.includes(tag)
                             ? 'border-border-darker opacity-50 cursor-not-allowed'
                             : 'border-border-darker hover:border-primary'
@@ -315,7 +315,7 @@ export default function TechStackPage() {
                         key={tag}
                         onClick={() => handleTagToggle(tag)}
                         disabled={formData.selectedTags.includes(tag)}
-                        className={`border rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors ${
+                        className={`border rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors flex items-center justify-center ${
                           formData.selectedTags.includes(tag)
                             ? 'border-border-darker opacity-50 cursor-not-allowed'
                             : 'border-border-darker hover:border-primary'
@@ -331,7 +331,7 @@ export default function TechStackPage() {
                         key={tag}
                         onClick={() => handleTagToggle(tag)}
                         disabled={formData.selectedTags.includes(tag)}
-                        className={`border rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors ${
+                        className={`border rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors flex items-center justify-center ${
                           formData.selectedTags.includes(tag)
                             ? 'border-border-darker opacity-50 cursor-not-allowed'
                             : 'border-border-darker hover:border-primary'
@@ -343,7 +343,7 @@ export default function TechStackPage() {
                     {/* Add New Tag Button */}
                     <button
                       onClick={handleAddNewTag}
-                      className="border border-border-darker rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors flex-1 min-w-[200px]"
+                      className="border border-border-darker rounded-lg px-6 py-4 text-white text-base hover:border-primary transition-colors flex-1 min-w-[200px] flex items-center justify-center"
                     >
                       + Add New Tag
                     </button>

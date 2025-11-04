@@ -99,10 +99,10 @@ export default function HostPage() {
               </Link>
 
               <div className="flex items-center gap-4">
-                <button className="text-primary text-sm md:text-base font-bold hover:text-primary/80 transition-colors">
+                <button className="text-primary text-sm md:text-base font-bold hover:text-primary/80 transition-colors flex items-center justify-center">
                   Preview publication
                 </button>
-                <button className="bg-primary opacity-40 hover:opacity-60 text-white px-4 py-2 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base transition-opacity">
+                <button className="bg-primary opacity-40 hover:opacity-60 text-white px-4 py-2 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base transition-opacity flex items-center justify-center">
                   Publish Hackathon
                 </button>
               </div>
@@ -145,7 +145,7 @@ export default function HostPage() {
                       <br />
                       visual here or:
                     </p>
-                    <button className="text-primary text-sm font-semibold hover:text-primary/80 transition-colors">
+                    <button className="text-primary text-sm font-semibold hover:text-primary/80 transition-colors flex items-center justify-center">
                       Click to browse
                     </button>
                   </div>
@@ -285,7 +285,7 @@ export default function HostPage() {
                     />
                   </div>
                 </div>
-                <button className="text-primary text-lg font-normal hover:text-primary/80 transition-colors self-start">
+                <button className="text-primary text-lg font-normal hover:text-primary/80 transition-colors flex items-center justify-center self-start">
                   + add another link
                 </button>
               </div>
