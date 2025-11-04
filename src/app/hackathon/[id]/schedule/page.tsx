@@ -207,7 +207,7 @@ export default function SchedulePage({ params }: SchedulePageProps) {
                                     <p className="text-white text-base">{event.dateRange.split(' - ')[1]}</p>
                                   </div>
                                 ) : (
-                                  <p className="text-white text-base leading-8">{event.date}</p>
+                                  <p className="text-white text-base leading-8">{(event as any).date || ''}</p>
                                 )}
                               </div>
                             </div>
