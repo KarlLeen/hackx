@@ -9,7 +9,7 @@ const imgEllipse2 = "/Ellipse 2.svg";
 
 const Header: React.FC = () => {
   return (
-    <header className="sticky top-0 z-50 w-full bg-bg-dark border-b border-border-dark">
+    <header className="sticky top-0 z-50 bg-bg-dark border-b border-border-dark">
       <div className="w-full flex justify-center">
         <div className="w-full max-w-[1100px] 2xl:max-w-[1300px] flex items-center justify-between gap-4 py-3 md:py-4 px-4 md:px-8 lg:px-12 xl:px-16">
         {/* Search Container */}
