@@ -17,6 +17,7 @@ const Sidebar: React.FC = () => {
   const isCertificationsPage = pathname?.startsWith('/certifications');
   const isProjectArchivePage = pathname?.startsWith('/project-archive');
   const isMyCommunityPage = pathname?.startsWith('/my-community');
+  const isCommunityEventsPage = pathname?.startsWith('/community-events');
 
   return (
     <aside className="fixed left-0 top-0 h-screen bg-bg-dark w-sidebar transition-all duration-300 z-20 md:w-sidebar-sm lg:w-sidebar hidden md:flex flex-col relative">
@@ -200,12 +201,17 @@ const Sidebar: React.FC = () => {
               <p className={`text-sm ${isMyCommunityPage ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>My Community</p>
             </div>
           </Link>
-          <div className="flex gap-2 items-center py-2 px-2">
-            <div className="w-4 h-4 relative shrink-0">
-              <img alt="" className="block w-full h-full" src={sidebarIcon} />
+          <Link href="/community-events" className="relative py-2 px-1 block">
+            {isCommunityEventsPage && (
+              <div className="absolute left-1 right-1 top-0 bottom-0 bg-primary opacity-20 rounded-md"></div>
+            )}
+            <div className="relative flex gap-2 items-center px-2">
+              <div className="w-4 h-4 relative shrink-0">
+                <img alt="" className="block w-full h-full" src={sidebarIcon} />
+              </div>
+              <p className={`text-sm ${isCommunityEventsPage ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Community Events</p>
             </div>
-            <p className="font-normal text-text-secondary text-sm">Community Events</p>
-          </div>
+          </Link>
           <div className="flex gap-2 items-center py-2 px-2">
             <div className="w-4 h-4 relative shrink-0">
               <img alt="" className="block w-full h-full" src={sidebarIcon} />
