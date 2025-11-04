@@ -142,7 +142,7 @@ export default function MyCommunityPage() {
               My Community
             </h1>
             <p className="text-white text-sm md:text-base opacity-80 mb-8 md:mb-10 max-w-2xl leading-relaxed">
-              Welcome to the HackX community platform! Explore and join a variety of vibrant communities, connect with like-minded individuals, and collaborate on exciting projects. Let's build the future of Web3 together!
+              Welcome to the HackX community platform! Explore and join a variety of vibrant communities, connect with like-minded individuals, and collaborate on exciting projects. Let&apos;s build the future of Web3 together!
             </p>
 
             {/* Explore Community Section */}

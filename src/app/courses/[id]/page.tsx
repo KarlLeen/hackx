@@ -64,7 +64,7 @@ export default function CourseDetailPage({ params }: CourseDetailPageProps) {
   const courseData = {
     id: params.id,
     title: 'Monad Ecosystem',
-    description: 'Monad is a high-performance, Ethereum-compatible Layer 1 blockchain designed to maximize throughput and minimize transaction costs. With innovations in MonadBFT consensus, Parallel Execution, and MonadDB, Monad achieves 10,000 TPS while maintaining full compatibility with the EVM and Ethereum ecosystem. Developers can seamlessly build dApps using Solidity, Foundry, Hardhat, and other familiar tools. If you\'re looking to explore Monad and master its core technology, this course will take you from the basics to hands-on development—getting you up and running in no time!',
+    description: 'Monad is a high-performance, Ethereum-compatible Layer 1 blockchain designed to maximize throughput and minimize transaction costs. With innovations in MonadBFT consensus, Parallel Execution, and MonadDB, Monad achieves 10,000 TPS while maintaining full compatibility with the EVM and Ethereum ecosystem. Developers can seamlessly build dApps using Solidity, Foundry, Hardhat, and other familiar tools. If you&apos;re looking to explore Monad and master its core technology, this course will take you from the basics to hands-on development—getting you up and running in no time!',
     logo: courseLogos[params.id] || courseLogos['9'],
     logoBg: 'bg-[#200053]',
     certification: {
@@ -73,7 +73,7 @@ export default function CourseDetailPage({ params }: CourseDetailPageProps) {
     },
     units: [
       { id: 1, title: 'Unit 1 — Monad Overview', progress: 100 },
-      { id: 2, title: 'Unit 2 — Overview of Monad\'s Technical Architecture', progress: 0 },
+      { id: 2, title: 'Unit 2 — Overview of Monad&apos;s Technical Architecture', progress: 0 },
       { id: 3, title: 'Unit 3 — Introduction to Monad Common Tools', progress: 0 },
     ],
     phases: [
@@ -310,7 +310,7 @@ export default function CourseDetailPage({ params }: CourseDetailPageProps) {
                     </div>
                   </div>
                   <p className="text-white text-sm opacity-80 leading-relaxed mb-6">
-                    Upon completing the Monad Developer Quest you'll earn a certification from Monad.
+                    Upon completing the Monad Developer Quest you&apos;ll earn a certification from Monad.
                   </p>
                   <div className="w-full h-[217px] relative">
                     <img alt="certificate" className="block w-full h-full object-cover" src={imgGroup20856632871} />

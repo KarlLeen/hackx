@@ -91,7 +91,7 @@ export default function RegisterPage({ params }: RegisterPageProps) {
                 <p className="text-white text-sm md:text-base opacity-60 text-center mb-8 leading-relaxed">
                   We need some of your info to join the hackathon.
                   <br />
-                  We'll save it and add it automatically next time
+                  We&apos;ll save it and add it automatically next time
                 </p>
 
                 {/* Form Fields */}

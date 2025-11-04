@@ -60,7 +60,7 @@ export default function CoursesPage() {
     {
       id: '1',
       title: 'Solana Ecosystem',
-      description: 'Built with Rust, Solana is known for speed and low costs. You\'ll learn Solana basics, smart contracts with Rust and Anchor, plus NFT contracts and game development.',
+      description: 'Built with Rust, Solana is known for speed and low costs. You&apos;ll learn Solana basics, smart contracts with Rust and Anchor, plus NFT contracts and game development.',
       logo: imgSolanaSymbolPng,
       logoBg: 'bg-black',
       certification: { by: 'Solana Labs', type: 'certified' },
@@ -69,7 +69,7 @@ export default function CoursesPage() {
     {
       id: '2',
       title: 'Mantle Blockchain',
-      description: 'Mantle Network, a fast-growing Ethereum L2, offers a hands-on path to mastering Solidity. You\'ll progress from basic syntax to advanced projects like launching tokens, NFTs, and even a "CryptoKitty."',
+      description: 'Mantle Network, a fast-growing Ethereum L2, offers a hands-on path to mastering Solidity. You&apos;ll progress from basic syntax to advanced projects like launching tokens, NFTs, and even a "CryptoKitty."',
       logo: imgSolanaSymbolPng1,
       logoBg: 'bg-black',
       certification: { by: 'Mantle', type: 'certified' },
@@ -112,7 +112,7 @@ export default function CoursesPage() {
     {
       id: '7',
       title: 'Linea Blockchain',
-      description: 'Linea Network, an Ethereum layer-2 (L2) solution, is one of the most promising advancements in Ethereum\'s scalability landscape. In this ecosystem, we will start with a comprehensive introduction to the Linea ecosystem, progressing from basic Solidity syntax to advanced guided projects. Through this journey, you will develop skills to launch tokens, implement NFT Dutch Auctions, and build a decentralized social DApp. All projects can be deployed on the Linea Mainnet or Testnet, offering practical, hands-on experience within the Linea ecosystem.',
+      description: 'Linea Network, an Ethereum layer-2 (L2) solution, is one of the most promising advancements in Ethereum&apos;s scalability landscape. In this ecosystem, we will start with a comprehensive introduction to the Linea ecosystem, progressing from basic Solidity syntax to advanced guided projects. Through this journey, you will develop skills to launch tokens, implement NFT Dutch Auctions, and build a decentralized social DApp. All projects can be deployed on the Linea Mainnet or Testnet, offering practical, hands-on experience within the Linea ecosystem.',
       logo: imgSolanaSymbolPng6,
       logoBg: 'bg-black',
       tags: ['Haskell', 'Advanced', 'Certificate'],
@@ -128,7 +128,7 @@ export default function CoursesPage() {
     {
       id: '9',
       title: 'Monad Ecosystem',
-      description: 'Monad is a high-performance, Ethereum-compatible Layer 1 blockchain designed to maximize throughput and minimize transaction costs. With innovations in MonadBFT consensus, Parallel Execution, and MonadDB, Monad achieves 10,000 TPS while maintaining full compatibility with the EVM and Ethereum ecosystem. Developers can seamlessly build dApps using Solidity, Foundry, Hardhat, and other familiar tools. If you\'re looking to explore Monad and master its core technology, this course will take you from the basics to hands-on development—getting you up and running in no time!',
+      description: 'Monad is a high-performance, Ethereum-compatible Layer 1 blockchain designed to maximize throughput and minimize transaction costs. With innovations in MonadBFT consensus, Parallel Execution, and MonadDB, Monad achieves 10,000 TPS while maintaining full compatibility with the EVM and Ethereum ecosystem. Developers can seamlessly build dApps using Solidity, Foundry, Hardhat, and other familiar tools. If you&apos;re looking to explore Monad and master its core technology, this course will take you from the basics to hands-on development—getting you up and running in no time!',
       logo: imgSolanaSymbolPng8,
       logoBg: 'bg-[#200053]',
       tags: ['Solidity', 'Intermediate', 'Certificate'],
@@ -172,7 +172,7 @@ export default function CoursesPage() {
 
             {/* Description */}
             <p className="text-white text-sm md:text-base opacity-80 mb-6 md:mb-8 leading-relaxed max-w-2xl">
-              Dive deep into the world's leading ecosystems and explore their unique technologies, gain hands-on experience and insights into the tools shaping the future. By the end, you'll be ready to become a certified developer.
+              Dive deep into the world&apos;s leading ecosystems and explore their unique technologies, gain hands-on experience and insights into the tools shaping the future. By the end, you&apos;ll be ready to become a certified developer.
             </p>
 
             {/* Filters */}

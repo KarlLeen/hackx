@@ -209,7 +209,7 @@ export default function CreateProjectPage() {
                       <img alt="image upload" className="block w-full h-full" src={imgImage} />
                     </div>
                     <p className="text-[#738b9f] text-xs leading-tight mb-1">
-                      Drag'n'drop project
+                      Drag&apos;n&apos;drop project
                     </p>
                     <p className="text-[#738b9f] text-xs leading-tight mb-1">
                       logo here or:

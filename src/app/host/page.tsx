@@ -141,7 +141,7 @@ export default function HostPage() {
                       <img alt="image" className="block w-full h-full" src={imgImage} />
                     </div>
                     <p className="text-text-secondary text-xs mb-1">
-                      Drag'n'drop a hackathon
+                      Drag&apos;n&apos;drop a hackathon
                       <br />
                       visual here or:
                     </p>

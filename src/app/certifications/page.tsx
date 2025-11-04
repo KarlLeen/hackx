@@ -67,7 +67,7 @@ export default function CertificationsPage() {
       progress: 22,
       units: [
         { id: 1, title: 'Unit 1 — Monad Overview', progress: 100 },
-        { id: 2, title: 'Unit 2 — Overview of Monad\'s Technical Architecture', progress: 0 },
+        { id: 2, title: 'Unit 2 — Overview of Monad&apos;s Technical Architecture', progress: 0 },
         { id: 3, title: 'Unit 3 — Introduction to Monad Common Tools', progress: 0 },
       ],
       quiz: {
@@ -303,7 +303,7 @@ export default function CertificationsPage() {
                           </div>
                         </div>
                         <p className="text-white text-sm opacity-80 leading-relaxed mb-6">
-                          Upon completing the Monad Developer Quest you'll earn a certification from Monad.
+                          Upon completing the Monad Developer Quest you&apos;ll earn a certification from Monad.
                         </p>
                         {/* Progress Bar */}
                         <div className="w-full h-1 bg-[#2b3740] rounded-full mb-4">
