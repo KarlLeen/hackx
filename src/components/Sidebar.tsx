@@ -22,11 +22,11 @@ const Sidebar: React.FC = () => {
   return (
     <aside className="fixed left-0 top-0 h-screen bg-bg-dark w-sidebar transition-all duration-300 z-20 md:w-sidebar-sm lg:w-sidebar hidden md:flex flex-col relative">
       {/* Vertical divider on the right side of sidebar */}
-      <div className="absolute right-0 top-0 bottom-0 w-px z-10">
+      <div className="absolute right-0 top-0 bottom-0 w-px z-30 pointer-events-none">
         <img alt="" className="block h-full w-full" src={imgLine6} />
       </div>
       
-      <div className="relative flex flex-col h-full py-6 px-4 overflow-y-auto">
+      <div className="relative flex flex-col h-full py-6 px-4 overflow-y-auto z-0">
         {/* Logo Container */}
         <div className="mb-6 flex-shrink-0 h-12 w-12 ml-2">
           <img 
@@ -37,7 +37,7 @@ const Sidebar: React.FC = () => {
         </div>
 
         {/* Quest Container */}
-        <div className="flex flex-col relative pb-4">
+        <div className="flex flex-col relative pb-4 mb-0">
           <div className="flex gap-2 items-center py-2 px-2">
             <div className="w-4 h-4 relative shrink-0">
               <img alt="" className="block w-full h-full" src={sidebarIcon} />
@@ -46,13 +46,13 @@ const Sidebar: React.FC = () => {
           </div>
           
           {/* Line6 - horizontal divider after Quest (Line6) */}
-          <div className="absolute left-0 bottom-0 w-full h-px">
+          <div className="absolute left-0 bottom-0 w-full h-px z-10">
             <img alt="" className="block w-full h-full object-cover" src={imgLine6} />
           </div>
         </div>
 
         {/* Certifications Container */}
-        <div className="flex flex-col gap-2 relative pb-4">
+        <div className="flex flex-col gap-2 relative pb-4 mb-0">
           {/* My Certifications - with highlight background if on /certifications */}
           <Link href="/certifications" className="relative py-2 px-1 block">
             {isCertificationsPage && (
@@ -79,14 +79,14 @@ const Sidebar: React.FC = () => {
           </Link>
           
           {/* Line6 - horizontal divider after Certifications (Line7) */}
-          <div className="absolute left-0 bottom-0 w-full h-px">
+          <div className="absolute left-0 bottom-0 w-full h-px z-10">
             <img alt="" className="block w-full h-full object-cover" src={imgLine6} />
           </div>
         </div>
 
         {/* Dashboard Container - Different content for Host page */}
         {isHostPage ? (
-          <div className="flex flex-col gap-2 relative pb-4">
+          <div className="flex flex-col gap-2 relative pb-4 mb-0">
             {/* Overview - with highlight background if on /host */}
             <Link href="/host" className="relative py-2 px-1 block">
               {pathname === '/host' && (
@@ -137,12 +137,12 @@ const Sidebar: React.FC = () => {
             </Link>
             
             {/* Line6 - horizontal divider after Dashboard (Line8) */}
-            <div className="absolute left-0 bottom-0 w-full h-px">
+            <div className="absolute left-0 bottom-0 w-full h-px z-10">
               <img alt="" className="block w-full h-full object-cover" src={imgLine6} />
             </div>
           </div>
         ) : (
-          <div className="flex flex-col gap-2 relative pb-4">
+          <div className="flex flex-col gap-2 relative pb-4 mb-0">
             {/* Dashboard - with highlight background if on /dashboard or its subpages (but not /dashboard/projects/create) */}
             <Link href="/dashboard" className={`relative py-2 px-1 block`}>
               {isDashboardPage && (
@@ -181,7 +181,7 @@ const Sidebar: React.FC = () => {
             </Link>
             
             {/* Line6 - horizontal divider after Dashboard (Line8) */}
-            <div className="absolute left-0 bottom-0 w-full h-px">
+            <div className="absolute left-0 bottom-0 w-full h-px z-10">
               <img alt="" className="block w-full h-full object-cover" src={imgLine6} />
             </div>
           </div>
