@@ -3,9 +3,9 @@
 import React from 'react';
 import Link from 'next/link';
 
-const imgSearch = "http://localhost:3845/assets/44b0646037128e86ca2352deb6762ae8e7ca5f42.svg";
-const imgFrame2 = "http://localhost:3845/assets/70eb5a1fc500523b197e623cd621d288d29fc3a8.svg";
-const imgEllipse2 = "http://localhost:3845/assets/8e05f16315242ec62575b9c606c2138ab7d7a6cc.svg";
+const imgSearch = "/search.svg";
+const imgFrame2 = "/Frame-2.svg";
+const imgEllipse2 = "/Ellipse 2.svg";
 
 const Header: React.FC = () => {
   return (

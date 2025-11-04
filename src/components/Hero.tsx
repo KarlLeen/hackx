@@ -1,11 +1,11 @@
 import React from 'react';
 
 const Hero: React.FC = () => {
-  const imgHeroImage = "http://localhost:3845/assets/dec11002a58e7b355d188bb157c50e1be953064f.png";
-  const imgFrame3 = "http://localhost:3845/assets/56a31b452d0f7cd9ed8df1b1615792ed6dbcd4b6.svg";
-  const imgFrame4 = "http://localhost:3845/assets/aacd2dc73e6f796e683f01950ad87cf6728c5912.svg";
-  const imgEllipse3 = "http://localhost:3845/assets/a1baba88f50749cb08f0826411853fca0aa6641a.svg";
-  const imgEllipse4 = "http://localhost:3845/assets/dc46544932ad4d4bb024dd83969badf39053c742.svg";
+  const imgHeroImage = "/Rectangle 227.png";
+  const imgFrame3 = "/Frame-3.svg";
+  const imgFrame4 = "/arrow-left.svg";
+  const imgEllipse3 = "/Ellipse 6.svg";
+  const imgEllipse4 = "/Ellipse 6-1.svg";
 
   return (
     <div className="relative w-full aspect-[27/10] md:aspect-[110/40] rounded-lg overflow-hidden">

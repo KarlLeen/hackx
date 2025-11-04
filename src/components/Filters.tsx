@@ -1,6 +1,6 @@
 import React from 'react';
 
-const imgVector2 = "http://localhost:3845/assets/6494ad074a7e6d78fae9be1553192e8b9c5eabbf.svg";
+const imgVector2 = "/Vector.svg";
 
 interface FilterItem {
   label: string;

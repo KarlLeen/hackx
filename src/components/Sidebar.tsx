@@ -5,10 +5,10 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
 const logoContainerSvg = "/Logo Container.svg";
-const imgFrame = "http://localhost:3845/assets/19fc70a1cb6b0d099d8efd941de16deb30bf796f.svg";
-const imgFrame1 = "http://localhost:3845/assets/ddae953f8c9baa74b833804a68087bd52fb2aa90.svg";
-const imgFrame2 = "http://localhost:3845/assets/b0c1a7cf5fa84d1b145b9d54216fa8ca2715d001.svg";
-const imgLine6 = "http://localhost:3845/assets/784e2a029be971e86dd0ef751aaf0c912cc04ca6.svg";
+const imgFrame = "/Frame-1.svg";
+const imgFrame1 = "/Frame-1.svg";
+const imgFrame2 = "/Frame-2.svg";
+const imgLine6 = "/Vector.svg";
 
 const Sidebar: React.FC = () => {
   const pathname = usePathname();

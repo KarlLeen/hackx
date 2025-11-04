@@ -9,15 +9,15 @@ import Filters from '@/components/Filters';
 import HackathonCard from '@/components/HackathonCard';
 
 // Image URLs
-const imgHackathonImage = "http://localhost:3845/assets/f1e6e5ac581eef41cc19191985e2ab75c63a4868.png";
-const imgHackathonImage1 = "http://localhost:3845/assets/4bf2362b61aae0bcce60002218ecbda7eaeed6fc.png";
-const imgHackathonImage2 = "http://localhost:3845/assets/7f29d5082a5907a467abafc18cc3fb709f10e77a.png";
-const imgHackathonImage3 = "http://localhost:3845/assets/7b1f6271d02f96c64892c106af3ec0f8d4bcc53f.png";
-const imgHackathonImage4 = "http://localhost:3845/assets/63b3ad30872bfc6485a1f5908dc6de664d7703e7.png";
-const imgHackathonImage5 = "http://localhost:3845/assets/f131ff873c8f56b55ec0d4a2fb6a1aa29dc8c93a.png";
+const imgHackathonImage = "/Rectangle 227.png";
+const imgHackathonImage1 = "/Rectangle 227-1.png";
+const imgHackathonImage2 = "/Rectangle 227-2.png";
+const imgHackathonImage3 = "/Rectangle 227-3.png";
+const imgHackathonImage4 = "/Rectangle 227-4.png";
+const imgHackathonImage5 = "/Rectangle 227-5.png";
 
 // Line1 divider image
-const imgLine1 = "http://localhost:3845/assets/df1d21485e699bf1889d4c10443f439e65d15fe5.svg";
+const imgLine1 = "/Vector.svg";
 
 export default function Home() {
   const line1Ref = useRef<HTMLDivElement>(null);
@@ -77,7 +77,7 @@ export default function Home() {
             {/* Featured Badge - positioned on hero */}
             <div className="absolute top-4 md:top-6 left-4 md:left-6 bg-white flex gap-2 items-center justify-center px-2 py-1.5 rounded-full shadow-lg">
               <div className="w-4 h-4 relative">
-                <img alt="featured" className="block w-full h-full" src="http://localhost:3845/assets/3de0b1b0e7c6fa7cf5c865e8de3967956fb82ce0.svg" />
+                <img alt="featured" className="block w-full h-full" src="/Vector.svg" />
               </div>
               <p className="font-bold text-primary text-xs md:text-sm">Featured</p>
             </div>
@@ -86,7 +86,7 @@ export default function Home() {
             <button className="absolute bottom-4 md:bottom-6 left-1/2 transform -translate-x-1/2 md:left-auto md:transform-none md:right-4 md:bottom-6 bg-white hover:bg-gray-100 flex gap-2 items-center justify-center px-4 py-2 md:px-6 md:py-3 rounded-md shadow-lg transition-colors">
               <span className="text-black text-xs md:text-sm font-medium">Start Register</span>
               <div className="w-4 h-4 relative">
-                <img alt="arrow" className="block w-full h-full" src="http://localhost:3845/assets/aacd2dc73e6f796e683f01950ad87cf6728c5912.svg" />
+                <img alt="arrow" className="block w-full h-full" src="/Vector.svg" />
               </div>
             </button>
           </div>
@@ -105,7 +105,7 @@ export default function Home() {
                    {/* Host Button */}
                    <Link href="/host" className="bg-primary hover:bg-primary/90 flex gap-2 items-center justify-center px-4 py-2 md:px-6 md:py-3 rounded-md transition-colors shrink-0 self-start md:self-auto">
                      <div className="w-4 h-4 relative">
-                       <img alt="plus" className="block w-full h-full" src="http://localhost:3845/assets/ddae953f8c9baa74b833804a68087bd52fb2aa90.svg" />
+                       <img alt="plus" className="block w-full h-full" src="/Vector.svg" />
                      </div>
                      <span className="text-white text-sm md:text-base font-medium">Host a Hackaton</span>
                    </Link>
