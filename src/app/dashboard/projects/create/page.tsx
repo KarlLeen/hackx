@@ -6,31 +6,31 @@ import { usePathname } from 'next/navigation';
 import Header from '@/components/Header';
 
 // Image URLs
-const imgLine1 = "http://localhost:3845/assets/c7707a9d0ba7d4e9e65ba34bebdbc892f87f04ad.svg";
-const imgLine9 = "http://localhost:3845/assets/94b6c6a7cf479f5407ae1b8b4ba055c7d02103f5.svg";
-const imgX = "http://localhost:3845/assets/4df8a0c12cf2499efefbcbeae2ab37513da90590.svg";
-const imgImage = "http://localhost:3845/assets/895a6ec9a1b757534bb68afb69d7a30cab09b093.svg";
-const imgIcon = "http://localhost:3845/assets/eb8af76b2abed5952f8dda8eb9eb3cea74495147.svg";
-const imgGroup2085663257 = "http://localhost:3845/assets/f4ddcb8ff3ee2bd18036f55200c68b27cfdc7330.svg";
-const imgLine28 = "http://localhost:3845/assets/52e44c30084d3198c25a6c26fcfab4b6245d089e.svg";
-const imgLine30 = "http://localhost:3845/assets/58bf7a82d3a30cd9205fa9f2df6a0eed0d1c7c64.svg";
-const imgIcon1 = "http://localhost:3845/assets/7c40c95cd9efb1d343d1f5fe8a1c68d798c5e711.svg";
-const imgIcon2 = "http://localhost:3845/assets/82a8b1265274aa2740eb7ffb367928c01b10cf9c.svg";
-const imgIcon3 = "http://localhost:3845/assets/ae1f142afef927e12d004bf1457bad5be31debe1.svg";
-const imgBold = "http://localhost:3845/assets/60b34fc5d7d1842e1d50e8594ef4fa05988536e9.svg";
-const imgItalic = "http://localhost:3845/assets/019bf95e001ccf6aaec9f32cb5986986d3a531fe.svg";
-const imgUnderline = "http://localhost:3845/assets/6b01cdac4df640d9cb9d780959f870c0cf066e1f.svg";
-const imgStrikethrough = "http://localhost:3845/assets/acdf3cfc9a664c6932c0e340a127aaf6041527cc.svg";
-const imgIcon4 = "http://localhost:3845/assets/da62e9c74b49e375371432498dff2e0b04a6fa1c.svg";
-const imgIcon5 = "http://localhost:3845/assets/c429387627ce67766e321f05cab1487c93ef9e83.svg";
-const imgTextColor = "http://localhost:3845/assets/5e2b0be33a0532332c8358266b9ce33fd1685747.svg";
-const imgLink = "http://localhost:3845/assets/4f761e4a9785c159fda4a33625535587a9543007.svg";
-const imgImage1 = "http://localhost:3845/assets/1f83510af987455b9e18fc099ab418ba14ab54b3.svg";
-const imgIcon6 = "http://localhost:3845/assets/cc1cbd1a6dcd7bfb99483c48a3daa875499a46ac.svg";
-const imgIcon7 = "http://localhost:3845/assets/01f7b5402d16456b96fdf428fa98bee1bb74fbca.svg";
-const imgIcon8 = "http://localhost:3845/assets/8804cf3a8e632ecd5c1ed34b2562c5e7dc7fa2cb.svg";
-const imgLine32 = "http://localhost:3845/assets/0f852d3bdfd68cd0b32f083fbb89f11b67dcf97b.svg";
-const imgRectangle21 = "http://localhost:3845/assets/a570366e574a5d018f8569a582bd98c2a4b2fa0d.svg";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgX = "/Vector.svg";
+const imgImage = "/Vector.svg";
+const imgIcon = "/Vector.svg";
+const imgGroup2085663257 = "/Vector.svg";
+const imgLine28 = "/Vector.svg";
+const imgLine30 = "/Vector.svg";
+const imgIcon1 = "/Vector.svg";
+const imgIcon2 = "/Vector.svg";
+const imgIcon3 = "/Vector.svg";
+const imgBold = "/Vector.svg";
+const imgItalic = "/Vector.svg";
+const imgUnderline = "/Vector.svg";
+const imgStrikethrough = "/Vector.svg";
+const imgIcon4 = "/Vector.svg";
+const imgIcon5 = "/Vector.svg";
+const imgTextColor = "/Vector.svg";
+const imgLink = "/Vector.svg";
+const imgImage1 = "/Vector.svg";
+const imgIcon6 = "/Vector.svg";
+const imgIcon7 = "/Vector.svg";
+const imgIcon8 = "/Vector.svg";
+const imgLine32 = "/Vector.svg";
+const imgRectangle21 = "/Vector.svg";
 
 // Project Sidebar Component
 const ProjectSidebar: React.FC = () => {
@@ -57,7 +57,7 @@ const ProjectSidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src="http://localhost:3845/assets/6c09dfa991f48345d036992b86754bbd3f049ddf.svg" />
+                <img alt="" className="block w-full h-full" src="/Vector.svg" />
               </div>
               <p className={`text-sm ${pathname === '/dashboard/projects/create' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Overview</p>
             </div>
@@ -69,7 +69,7 @@ const ProjectSidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src="http://localhost:3845/assets/56b9005476370aad1f43c7f8c294c7e1cd134b98.svg" />
+                <img alt="" className="block w-full h-full" src="/Vector.svg" />
               </div>
               <p className={`text-sm ${pathname === '/dashboard/projects/create/tech-stack' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Tech Stack</p>
             </div>
@@ -81,7 +81,7 @@ const ProjectSidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src="http://localhost:3845/assets/19fc70a1cb6b0d099d8efd941de16deb30bf796f.svg" />
+                <img alt="" className="block w-full h-full" src="/Vector.svg" />
               </div>
               <p className={`text-sm ${pathname === '/dashboard/projects/create/hackathon' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Hackathon</p>
             </div>

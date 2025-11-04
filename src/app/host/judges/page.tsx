@@ -6,20 +6,20 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 // Image URLs
-const imgLine1 = "http://localhost:3845/assets/df1d21485e699bf1889d4c10443f439e65d15fe5.svg";
-const imgLine9 = "http://localhost:3845/assets/94b6c6a7cf479f5407ae1b8b4ba055c7d02103f5.svg";
-const imgX = "http://localhost:3845/assets/a195f9869ab9283244e1ef1fdbb2a593ce435376.svg";
-const imgLink = "http://localhost:3845/assets/d7a1b3ba44aadbc744de3e0ba5d7ab260ba3a220.svg";
-const imgRectangle21 = "http://localhost:3845/assets/f76b6924dc8daa3e8742e922f54805badc8635eb.svg";
-const imgLine34 = "http://localhost:3845/assets/d88efbaaab984cb6132485d589cb1a69fd2e1550.svg";
-const imgLine35 = "http://localhost:3845/assets/710be7a5c90a93eb2924f9dd58776ba5621760ce.svg";
-const imgLine36 = "http://localhost:3845/assets/8aa98f229232c462cb7fee926046697c8ac4f013.svg";
-const imgVector = "http://localhost:3845/assets/e72245bdfbed5540d98385f345c472455b6597b1.svg";
-const imgVector1 = "http://localhost:3845/assets/e5e7ab51865f9053d33ac5a74c0e986476ab5442.svg";
-const imgUser = "http://localhost:3845/assets/d66f86862427f8435f9a833fb6cde6223518db6a.svg";
-const imgUser1 = "http://localhost:3845/assets/8183fcc651646fc666bd83f5994bac67284a5078.svg";
-const imgEllipse15 = "http://localhost:3845/assets/3f9458a93ba214624ea7a33c29bcdd67543645df.png";
-const imgEllipse16 = "http://localhost:3845/assets/75b735215efa8e7bd2f1a24f4ccc41294111ddcc.png";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgX = "/Vector.svg";
+const imgLink = "/Vector.svg";
+const imgRectangle21 = "/Vector.svg";
+const imgLine34 = "/Vector.svg";
+const imgLine35 = "/Vector.svg";
+const imgLine36 = "/Vector.svg";
+const imgVector = "/Vector.svg";
+const imgVector1 = "/Vector.svg";
+const imgUser = "/Vector.svg";
+const imgUser1 = "/Vector.svg";
+const imgEllipse15 = "/Rectangle 227.png";
+const imgEllipse16 = "/Rectangle 227.png";
 
 interface Judge {
   id: string;

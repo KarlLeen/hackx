@@ -6,16 +6,16 @@ import { usePathname } from 'next/navigation';
 import Header from '@/components/Header';
 
 // Image URLs
-const imgLine1 = "http://localhost:3845/assets/be7e1b456332e539ca4965927e619892556a9b31.svg";
-const imgLine9 = "http://localhost:3845/assets/94b6c6a7cf479f5407ae1b8b4ba055c7d02103f5.svg";
-const imgX = "http://localhost:3845/assets/4df8a0c12cf2499efefbcbeae2ab37513da90590.svg";
-const imgIcon = "http://localhost:3845/assets/eb8af76b2abed5952f8dda8eb9eb3cea74495147.svg";
-const imgGroup2085663257 = "http://localhost:3845/assets/f4ddcb8ff3ee2bd18036f55200c68b27cfdc7330.svg";
-const imgLine28 = "http://localhost:3845/assets/52e44c30084d3198c25a6c26fcfab4b6245d089e.svg";
-const imgLine30 = "http://localhost:3845/assets/58bf7a82d3a30cd9205fa9f2df6a0eed0d1c7c64.svg";
-const imgX1 = "http://localhost:3845/assets/e5a95c18dda1a40f7571e6e3f33bba2ad15da6cb.svg";
-const imgLine36 = "http://localhost:3845/assets/42252f9a9f64cd525dc0f31c42e48651a5d375e0.svg";
-const imgRectangle21 = "http://localhost:3845/assets/eabb8d5b7d0575d20942a81c9bf8c2c3cb0e526a.svg";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgX = "/Vector.svg";
+const imgIcon = "/Vector.svg";
+const imgGroup2085663257 = "/Vector.svg";
+const imgLine28 = "/Vector.svg";
+const imgLine30 = "/Vector.svg";
+const imgX1 = "/Vector.svg";
+const imgLine36 = "/Vector.svg";
+const imgRectangle21 = "/Vector.svg";
 
 // Project Sidebar Component
 const ProjectSidebar: React.FC = () => {
@@ -42,7 +42,7 @@ const ProjectSidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src="http://localhost:3845/assets/6c09dfa991f48345d036992b86754bbd3f049ddf.svg" />
+                <img alt="" className="block w-full h-full" src="/Vector.svg" />
               </div>
               <p className={`text-sm ${pathname === '/dashboard/projects/create' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Overview</p>
             </div>
@@ -54,7 +54,7 @@ const ProjectSidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src="http://localhost:3845/assets/56b9005476370aad1f43c7f8c294c7e1cd134b98.svg" />
+                <img alt="" className="block w-full h-full" src="/Vector.svg" />
               </div>
               <p className={`text-sm ${pathname === '/dashboard/projects/create/tech-stack' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Tech Stack</p>
             </div>
@@ -66,7 +66,7 @@ const ProjectSidebar: React.FC = () => {
             )}
             <div className="relative flex gap-2 items-center px-2">
               <div className="w-4 h-4 relative shrink-0">
-                <img alt="" className="block w-full h-full" src="http://localhost:3845/assets/19fc70a1cb6b0d099d8efd941de16deb30bf796f.svg" />
+                <img alt="" className="block w-full h-full" src="/Vector.svg" />
               </div>
               <p className={`text-sm ${pathname === '/dashboard/projects/create/hackathon' ? 'font-semibold text-primary' : 'font-normal text-text-secondary'}`}>Hackathon</p>
             </div>

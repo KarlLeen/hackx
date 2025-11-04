@@ -6,16 +6,16 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 // Image URLs
-const imgLine1 = "http://localhost:3845/assets/df1d21485e699bf1889d4c10443f439e65d15fe5.svg";
-const imgLine9 = "http://localhost:3845/assets/c2166d7a118fbe0524d2f04202cebe7d7d794022.svg";
-const imgX = "http://localhost:3845/assets/4df8a0c12cf2499efefbcbeae2ab37513da90590.svg";
-const imgVector = "http://localhost:3845/assets/009cad1cad2b865ccaa9e6f15a7109116fd29f91.svg";
-const imgVector1 = "http://localhost:3845/assets/5ac551eb81fb00140535862cb29bd9c42f4942aa.svg";
-const imgGroup1171277299 = "http://localhost:3845/assets/89713350ff3660f215d0e3d37ed8cdebf2056251.svg";
-const imgLine33 = "http://localhost:3845/assets/eae65e786ffe9a9e314b7a21c590272230d16690.svg";
-const imgLine34 = "http://localhost:3845/assets/0c1724c5b244beafdb699e4b6b0447799f607ac9.svg";
-const imgLine35 = "http://localhost:3845/assets/66157d94d1ac0921c7e136942e94b29e51ce06af.svg";
-const imgRectangle21 = "http://localhost:3845/assets/a570366e574a5d018f8569a582bd98c2a4b2fa0d.svg";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgX = "/Vector.svg";
+const imgVector = "/Vector.svg";
+const imgVector1 = "/Vector.svg";
+const imgGroup1171277299 = "/Vector.svg";
+const imgLine33 = "/Vector.svg";
+const imgLine34 = "/Vector.svg";
+const imgLine35 = "/Vector.svg";
+const imgRectangle21 = "/Vector.svg";
 
 export default function HostPrizesPage() {
   const line1Ref = useRef<HTMLDivElement>(null);

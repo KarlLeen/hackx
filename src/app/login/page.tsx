@@ -4,14 +4,14 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 
 // Image URLs
-const imgMetamaskLogoPng = "http://localhost:3845/assets/c5416aeed5de3809166abafac8a489d5175e76ac.png";
-const imgImage = "http://localhost:3845/assets/1a9133248add48a2881f12ab03551ef8a31e5ca5.png";
-const imgCoinbaseIconPng = "http://localhost:3845/assets/c2ab0992ab80f1a96d7e985b4fc6533462550d4f.png";
-const imgRabbyWalletIconJpeg = "http://localhost:3845/assets/e75e2436e5c7e425aa5449416e640968bae552e9.png";
-const imgImgSqIrr7FzdlNjjEiG0SzAv2 = "http://localhost:3845/assets/6862ed372d7bc3b0eb9db2d03a5f38f533473ef5.png";
-const imgLine7 = "http://localhost:3845/assets/440f370ed113575d9e380e6a6989a98175384be8.svg";
-const imgVector2 = "http://localhost:3845/assets/eb9e074fb462b261625b3518bf7b756dce4ac714.svg";
-const imgImgSqIrr7FzdlNjjEiG0SzAv1 = "http://localhost:3845/assets/9514c3af79c016f8fd2db738db4164c1a9e0e29b.svg";
+const imgMetamaskLogoPng = "/Rectangle 227.png";
+const imgImage = "/Rectangle 227.png";
+const imgCoinbaseIconPng = "/Rectangle 227.png";
+const imgRabbyWalletIconJpeg = "/Rectangle 227.png";
+const imgImgSqIrr7FzdlNjjEiG0SzAv2 = "/Rectangle 227.png";
+const imgLine7 = "/Vector.svg";
+const imgVector2 = "/Vector.svg";
+const imgImgSqIrr7FzdlNjjEiG0SzAv1 = "/Vector.svg";
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');

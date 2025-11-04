@@ -6,16 +6,16 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 // Image URLs - using local files from public directory where possible
-const imgLine1 = "http://localhost:3845/assets/f91a75f3c3dadd030001e9216dd5e9d26c83e74f.svg";
-const imgLine9 = "http://localhost:3845/assets/c2166d7a118fbe0524d2f04202cebe7d7d794022.svg";
-const imgThumbsUp = "http://localhost:3845/assets/f093f0302a7365ff5030dba8702c653fc3f0a0fd.svg";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgThumbsUp = "/Vector.svg";
 const imgArrowLeft = "/arrow-left.svg";
-const imgArrowDown = "http://localhost:3845/assets/64b4344fe62ca5b09336d9929991f4443b145281.svg";
-const imgFrame5 = "http://localhost:3845/assets/9cb41045f47c6331e54ed99e33d160e3bac34411.svg";
+const imgArrowDown = "/Vector.svg";
+const imgFrame5 = "/Vector.svg";
 const imgGroup20856632871 = "/Group 2085663287 1.png";
-const imgGroup2085663288 = "http://localhost:3845/assets/ac8e48745a979696cc1158f737557f88f13b9ce2.svg";
-const imgGroup2085663289 = "http://localhost:3845/assets/27a4615b9caf78e2caec54ce140f3e80e39ee363.svg";
-const imgGroup2085663290 = "http://localhost:3845/assets/3331af9f89a61fcb83f9d159517d97e37becbd5b.svg";
+const imgGroup2085663288 = "/Vector.svg";
+const imgGroup2085663289 = "/Vector.svg";
+const imgGroup2085663290 = "/Vector.svg";
 const imgRectangle = "/Rectangle.png";
 const imgRectangle1 = "/Rectangle-1.png";
 

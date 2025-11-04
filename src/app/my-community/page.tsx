@@ -6,8 +6,8 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 // Image URLs - using local files from public directory
-const imgLine1 = "http://localhost:3845/assets/f91a75f3c3dadd030001e9216dd5e9d26c83e74f.svg";
-const imgLine9 = "http://localhost:3845/assets/c2166d7a118fbe0524d2f04202cebe7d7d794022.svg";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
 
 export default function MyCommunityPage() {
   const line1Ref = useRef<HTMLDivElement>(null);

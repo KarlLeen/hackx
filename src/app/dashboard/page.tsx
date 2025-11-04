@@ -6,21 +6,21 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 // Image URLs
-const imgLine1 = "http://localhost:3845/assets/df1d21485e699bf1889d4c10443f439e65d15fe5.svg";
-const imgLine9 = "http://localhost:3845/assets/c2166d7a118fbe0524d2f04202cebe7d7d794022.svg";
-const imgSearch = "http://localhost:3845/assets/44b0646037128e86ca2352deb6762ae8e7ca5f42.svg";
-const imgFrame2 = "http://localhost:3845/assets/70eb5a1fc500523b197e623cd621d288d29fc3a8.svg";
-const imgEllipse2 = "http://localhost:3845/assets/8e05f16315242ec62575b9c606c2138ab7d7a6cc.svg";
-const imgVector2 = "http://localhost:3845/assets/023f00816a6a21d486fc12594bb012cae0ec5ceb.svg";
-const imgIcon = "http://localhost:3845/assets/4d84fbadd014768069fa6ee54df87cc5cc585185.svg";
-const imgIcon1 = "http://localhost:3845/assets/d3cafabacd01b62f471d281228ba14c91debdf7f.svg";
-const imgIcon2 = "http://localhost:3845/assets/82fac536b26f9119da87d6c50f90f1f4582c048d.svg";
-const imgGroup2085663257 = "http://localhost:3845/assets/0415e37d3387b661b37f0c3668fffb623c5c518d.svg";
-const imgRectangle9 = "http://localhost:3845/assets/f1e6e5ac581eef41cc19191985e2ab75c63a4868.png";
-const imgRectangle10 = "http://localhost:3845/assets/4bf2362b61aae0bcce60002218ecbda7eaeed6fc.png";
-const imgRectangle11 = "http://localhost:3845/assets/7f29d5082a5907a467abafc18cc3fb709f10e77a.png";
-const imgRectangle12 = "http://localhost:3845/assets/6ca4fa119ef6adb0bb04f56c6c345c6daa65e6e9.png";
-const imgRectangle28 = "http://localhost:3845/assets/b2ce8a469c0df88bec74e2d4b0202b3e03195a61.png";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgSearch = "/Vector.svg";
+const imgFrame2 = "/Vector.svg";
+const imgEllipse2 = "/Vector.svg";
+const imgVector2 = "/Vector.svg";
+const imgIcon = "/Vector.svg";
+const imgIcon1 = "/Vector.svg";
+const imgIcon2 = "/Vector.svg";
+const imgGroup2085663257 = "/Vector.svg";
+const imgRectangle9 = "/Rectangle 227.png";
+const imgRectangle10 = "/Rectangle 227.png";
+const imgRectangle11 = "/Rectangle 227.png";
+const imgRectangle12 = "/Rectangle 227.png";
+const imgRectangle28 = "/Rectangle 227.png";
 
 export default function DashboardPage() {
   const line1Ref = useRef<HTMLDivElement>(null);

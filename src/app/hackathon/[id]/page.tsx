@@ -8,12 +8,12 @@ import Header from '@/components/Header';
 // Image URLs - using local SVG files from public directory
 const imgArrowLeft = "/arrow-left.svg";
 const imgShare2 = "/share-2.svg";
-const imgHackathonImage = "http://localhost:3845/assets/f1e6e5ac581eef41cc19191985e2ab75c63a4868.png";
-const imgLine1 = "http://localhost:3845/assets/df1d21485e699bf1889d4c10443f439e65d15fe5.svg";
-const imgLine9 = "http://localhost:3845/assets/c2166d7a118fbe0524d2f04202cebe7d7d794022.svg";
-const imgLine12 = "http://localhost:3845/assets/5ba0a6750208482e33d1d86cbf79f9c5d67a95ae.svg";
-const imgLine10 = "http://localhost:3845/assets/2bc18f7bfe8e85060706d15c2759a3435a6354bd.svg";
-const imgLine11 = "http://localhost:3845/assets/2c4bff8d472180b19e586f40c250e4b6f61828d9.svg";
+const imgHackathonImage = "/Rectangle 227.png";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgLine12 = "/Vector.svg";
+const imgLine10 = "/Vector.svg";
+const imgLine11 = "/Vector.svg";
 const imgEllipse6 = "/Ellipse%206.svg";
 const imgCheck = "/check.svg";
 const imgEllipse7 = "/Ellipse%206-1.svg";

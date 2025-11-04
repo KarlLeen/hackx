@@ -6,11 +6,11 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 // Image URLs
-const imgLine1 = "http://localhost:3845/assets/df1d21485e699bf1889d4c10443f439e65d15fe5.svg";
-const imgLine9 = "http://localhost:3845/assets/c2166d7a118fbe0524d2f04202cebe7d7d794022.svg";
-const imgX = "http://localhost:3845/assets/4df8a0c12cf2499efefbcbeae2ab37513da90590.svg";
-const imgRectangle21 = "http://localhost:3845/assets/7b919d9bb0f96e59bd31a339f27a531a9343716b.svg";
-const imgLine27 = "http://localhost:3845/assets/17bbb40ed6cdaf68cd5a12145d20d26203ad683b.svg";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgX = "/Vector.svg";
+const imgRectangle21 = "/Vector.svg";
+const imgLine27 = "/Vector.svg";
 const logoContainerSvg = "/Logo Container.svg";
 
 interface RegisterPageProps {

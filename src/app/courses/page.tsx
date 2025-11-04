@@ -6,20 +6,20 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 // Image URLs
-const imgLine1 = "http://localhost:3845/assets/9fe7860903810d1463ec94add16342d67607475c.svg";
-const imgLine9 = "http://localhost:3845/assets/c2166d7a118fbe0524d2f04202cebe7d7d794022.svg";
-const imgVector2 = "http://localhost:3845/assets/e0c7f3ba84c1f9c5d5a0bebf100735b13142c730.svg";
-const imgThumbsUp = "http://localhost:3845/assets/f093f0302a7365ff5030dba8702c653fc3f0a0fd.svg";
-const imgGroup2085663279 = "http://localhost:3845/assets/05f711db6ce1785c2e1fb1156a11ef0acb3c5472.svg";
-const imgSolanaSymbolPng = "http://localhost:3845/assets/a8140e1b13690138c87e52efa8d9d3e2317b3d86.png";
-const imgSolanaSymbolPng1 = "http://localhost:3845/assets/1677a791c24911fe29a768b78fad65e4c9c96ee6.png";
-const imgSolanaSymbolPng2 = "http://localhost:3845/assets/b112212b116160bc70922ea8cf0b9351782819f5.png";
-const imgSolanaSymbolPng3 = "http://localhost:3845/assets/602253151f51307e062b03c20fd87d3ef0d4ce8a.png";
-const imgSolanaSymbolPng4 = "http://localhost:3845/assets/a8bfdf07182f4b3d85195e1673216697c9dce727.png";
-const imgSolanaSymbolPng5 = "http://localhost:3845/assets/59da3b3fddabcfabe261350a1cbaacb9dd745513.png";
-const imgSolanaSymbolPng6 = "http://localhost:3845/assets/6982dbec8ca3a56849f9c7ad6b74dc1b3fb2b93a.png";
-const imgSolanaSymbolPng7 = "http://localhost:3845/assets/764ed7e9432842a981dac95c091184e6e867291b.png";
-const imgSolanaSymbolPng8 = "http://localhost:3845/assets/f15c7cfbe420a3d454959c67074df7bb91a35009.png";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgVector2 = "/Vector.svg";
+const imgThumbsUp = "/Vector.svg";
+const imgGroup2085663279 = "/Vector.svg";
+const imgSolanaSymbolPng = "/Rectangle 227.png";
+const imgSolanaSymbolPng1 = "/Rectangle 227.png";
+const imgSolanaSymbolPng2 = "/Rectangle 227.png";
+const imgSolanaSymbolPng3 = "/Rectangle 227.png";
+const imgSolanaSymbolPng4 = "/Rectangle 227.png";
+const imgSolanaSymbolPng5 = "/Rectangle 227.png";
+const imgSolanaSymbolPng6 = "/Rectangle 227.png";
+const imgSolanaSymbolPng7 = "/Rectangle 227.png";
+const imgSolanaSymbolPng8 = "/Rectangle 227.png";
 
 interface Course {
   id: string;

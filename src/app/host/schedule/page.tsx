@@ -6,14 +6,14 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 // Image URLs
-const imgLine1 = "http://localhost:3845/assets/df1d21485e699bf1889d4c10443f439e65d15fe5.svg";
-const imgLine9 = "http://localhost:3845/assets/94b6c6a7cf479f5407ae1b8b4ba055c7d02103f5.svg";
-const imgX = "http://localhost:3845/assets/a195f9869ab9283244e1ef1fdbb2a593ce435376.svg";
-const imgVector = "http://localhost:3845/assets/5ac551eb81fb00140535862cb29bd9c42f4942aa.svg";
-const imgCheck = "http://localhost:3845/assets/c84a77e024e01cb29004e2cf9d76e026b9b9e202.svg";
-const imgImage = "http://localhost:3845/assets/8fbf2f2b62f6a93ec35f628537aa3969e2f87ab5.svg";
-const imgRectangle21 = "http://localhost:3845/assets/616f0ba0d3345595f43ae11fe78593a4fa20ca59.svg";
-const imgLine34 = "http://localhost:3845/assets/0c1724c5b244beafdb699e4b6b0447799f607ac9.svg";
+const imgLine1 = "/Vector.svg";
+const imgLine9 = "/Vector.svg";
+const imgX = "/Vector.svg";
+const imgVector = "/Vector.svg";
+const imgCheck = "/Vector.svg";
+const imgImage = "/Vector.svg";
+const imgRectangle21 = "/Vector.svg";
+const imgLine34 = "/Vector.svg";
 
 interface TimeSlot {
   id: string;
