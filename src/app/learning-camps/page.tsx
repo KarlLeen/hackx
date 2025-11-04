@@ -8,10 +8,10 @@ import Header from '@/components/Header';
 const imgLine1 = "/Vector.svg";
 const imgLine9 = "/Vector.svg";
 const imgVector2 = "/Vector.svg";
-// Camp images - using placeholder images from figma-exported, will need to be replaced with actual images
-const imgCamp1 = "/figma-exported/Hackathon Image1.png";
-const imgCamp2 = "/figma-exported/Hackathon Image2.png";
-const imgCamp3 = "/figma-exported/Hackathon Image3.png";
+// Camp images - using images from figma-exported
+const imgCamp1 = "/figma-exported/HackQuest Africa- Co-Learning Camp .png";
+const imgCamp2 = "/figma-exported/HackQuest Africa- Co-Learning Camp.png";
+const imgCamp3 = "/figma-exported/HackQuest Africa- Co-Learning Camp.png";
 // Register icon - using arrow icon
 const imgRegisterIcon = "/arrow-left.svg";
 
