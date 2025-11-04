@@ -220,9 +220,9 @@ export default function LearningCampsPage() {
                     </div>
 
                     {/* Register Button */}
-                    <button className="bg-primary hover:bg-primary/90 text-white px-4 py-2.5 rounded-lg font-bold text-sm md:text-base flex items-center gap-2 transition-colors w-fit">
+                    <button className="bg-primary hover:bg-primary/90 text-white px-4 py-2.5 md:px-6 md:py-3 rounded-lg font-bold text-sm md:text-base flex items-center justify-center gap-2 transition-colors w-fit">
                       <span>Register</span>
-                      <div className="w-3.5 h-3.5 relative shrink-0">
+                      <div className="w-3.5 h-3.5 md:w-4 md:h-4 relative shrink-0">
                         <img alt="register icon" className="block w-full h-full" src={imgRegisterIcon} />
                       </div>
                     </button>
