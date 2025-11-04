@@ -42,7 +42,7 @@ export default function MissionPage({ params }: MissionPageProps) {
   const communityData = {
     id: params.id,
     title: 'HackX India: Co-learning Camp 16',
-    banner: '/Rectangle 227.png',
+    banner: '/figma-exported/indieback.png',
     avatar: '/Ellipse 21.svg',
     users: 1355,
     userAvatars: [
