@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
@@ -18,30 +18,20 @@ const imgRectangle30 = "/figma-exported/Rectangle 30.png";
 const imgRectangle31 = "/figma-exported/Rectangle 31.png";
 const imgRectangle32 = "/figma-exported/Rectangle 32.png";
 
-export default function CommunityEventsPage() {
-  const line1Ref = useRef<HTMLDivElement>(null);
+// Event type definition
+interface Event {
+  id: number;
+  title: string;
+  image: string;
+  dateTime: string;
+  location: string;
+  organizers: string;
+  type: string;
+  status: string;
+}
 
-  useEffect(() => {
-    const updateLine1Position = () => {
-      if (line1Ref.current) {
-        if (window.innerWidth >= 1024) {
-          line1Ref.current.style.left = 'clamp(200px, 15vw, 280px)';
-        } else if (window.innerWidth >= 768) {
-          line1Ref.current.style.left = 'clamp(60px, 8vw, 80px)';
-        }
-      }
-    };
-
-    updateLine1Position();
-    window.addEventListener('resize', updateLine1Position);
-
-    return () => {
-      window.removeEventListener('resize', updateLine1Position);
-    };
-  }, []);
-
-  // Mock events data
-  const events = [
+// Mock events data
+const events: Event[] = [
     {
       id: 1,
       title: 'HackQuest x Monad Blitz Hangzhou',
@@ -103,6 +93,29 @@ export default function CommunityEventsPage() {
       status: 'Past',
     },
   ];
+
+export default function CommunityEventsPage() {
+  const line1Ref = useRef<HTMLDivElement>(null);
+  const [selectedEvent, setSelectedEvent] = useState<Event | null>(null);
+
+  useEffect(() => {
+    const updateLine1Position = () => {
+      if (line1Ref.current) {
+        if (window.innerWidth >= 1024) {
+          line1Ref.current.style.left = 'clamp(200px, 15vw, 280px)';
+        } else if (window.innerWidth >= 768) {
+          line1Ref.current.style.left = 'clamp(60px, 8vw, 80px)';
+        }
+      }
+    };
+
+    updateLine1Position();
+    window.addEventListener('resize', updateLine1Position);
+
+    return () => {
+      window.removeEventListener('resize', updateLine1Position);
+    };
+  }, []);
 
   return (
     <div className="bg-bg-dark min-h-screen w-full flex relative">
@@ -214,7 +227,10 @@ export default function CommunityEventsPage() {
                   {/* Event Content */}
                   <div className="px-4 pb-4">
                     {/* Event Title */}
-                    <h3 className="text-white text-base font-bold mb-4">
+                    <h3 
+                      className="text-white text-base font-bold mb-4 cursor-pointer hover:text-primary transition-colors"
+                      onClick={() => setSelectedEvent(event)}
+                    >
                       {event.title}
                     </h3>
 
@@ -268,6 +284,97 @@ export default function CommunityEventsPage() {
           </div>
         </div>
       </main>
+
+      {/* Event Detail Modal - Rectangle 237 */}
+      {selectedEvent && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
+          <div className="bg-bg-darker rounded-2xl w-full max-w-[616px] max-h-[90vh] overflow-y-auto relative">
+            {/* Close Button */}
+            <button
+              onClick={() => setSelectedEvent(null)}
+              className="absolute top-4 right-4 w-8 h-8 flex items-center justify-center text-white hover:text-primary transition-colors z-10"
+            >
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              </svg>
+            </button>
+
+            {/* Modal Content */}
+            <div className="p-6 md:p-8">
+              {/* Event Image */}
+              <div className="w-full h-[200px] md:h-[250px] rounded-lg overflow-hidden mb-6">
+                <img
+                  alt={selectedEvent.title}
+                  className="block w-full h-full object-cover"
+                  src={selectedEvent.image}
+                />
+              </div>
+
+              {/* Event Title */}
+              <h2 className="text-white text-2xl md:text-3xl font-bold mb-6">
+                {selectedEvent.title}
+              </h2>
+
+              {/* Event Details */}
+              <div className="space-y-4 mb-6">
+                {/* Date & Time */}
+                <div className="flex items-center gap-3">
+                  <div className="w-5 h-5 relative shrink-0">
+                    <img alt="clock" className="block w-full h-full" src={imgClock} />
+                  </div>
+                  <p className="text-white text-base opacity-80">
+                    {selectedEvent.dateTime}
+                  </p>
+                </div>
+
+                {/* Location */}
+                <div className="flex items-center gap-3">
+                  <div className="w-5 h-5 relative shrink-0">
+                    <img alt="location" className="block w-full h-full" src={imgClock1} />
+                  </div>
+                  <p className="text-white text-base opacity-80">
+                    {selectedEvent.location}
+                  </p>
+                </div>
+
+                {/* Organizers */}
+                <div className="flex items-center gap-3">
+                  <div className="w-5 h-5 relative shrink-0">
+                    <img alt="users" className="block w-full h-full" src={imgUsers} />
+                  </div>
+                  <p className="text-white text-base opacity-80">
+                    {selectedEvent.organizers}
+                  </p>
+                </div>
+              </div>
+
+              {/* Tags */}
+              <div className="flex gap-2 flex-wrap mb-6">
+                <div className="bg-primary/30 rounded-2xl px-4 py-2">
+                  <p className="text-white text-sm font-semibold">
+                    {selectedEvent.type}
+                  </p>
+                </div>
+                <div className="bg-[rgba(244,78,78,0.3)] rounded-2xl px-4 py-2">
+                  <p className="text-white text-sm font-semibold">
+                    {selectedEvent.status}
+                  </p>
+                </div>
+              </div>
+
+              {/* Action Buttons */}
+              <div className="flex gap-4">
+                <button className="flex-1 bg-primary hover:bg-primary/90 text-white px-6 py-3 rounded-lg font-medium transition-colors">
+                  Register
+                </button>
+                <button className="flex-1 bg-bg-dark hover:bg-bg-dark/80 text-white px-6 py-3 rounded-lg font-medium transition-colors border border-border-darker">
+                  Share
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
