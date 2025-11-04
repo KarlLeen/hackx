@@ -6,6 +6,7 @@ import { usePathname } from 'next/navigation';
 
 const logoContainerSvg = "/Logo Container.svg";
 const sidebarIcon = "/figma-exported/sidebaricon.svg";
+const imgLine1 = "/Vector.svg";
 const imgLine6 = "/Vector.svg";
 
 const Sidebar: React.FC = () => {
@@ -21,9 +22,9 @@ const Sidebar: React.FC = () => {
 
   return (
     <aside className="fixed left-0 top-0 h-screen bg-bg-dark w-sidebar transition-all duration-300 z-20 md:w-sidebar-sm lg:w-sidebar hidden md:flex flex-col relative">
-      {/* Vertical divider on the right side of sidebar */}
+      {/* Vertical divider on the right side of sidebar - Line1 */}
       <div className="absolute right-0 top-0 bottom-0 w-px z-30 pointer-events-none">
-        <img alt="" className="block h-full w-full" src={imgLine6} />
+        <img alt="" className="block h-full w-full" src={imgLine1} />
       </div>
       
       <div className="relative flex flex-col h-full py-6 px-4 overflow-y-auto z-0">
@@ -46,7 +47,7 @@ const Sidebar: React.FC = () => {
           </div>
           
           {/* Line6 - horizontal divider after Quest (Line6) */}
-          <div className="absolute left-0 bottom-0 w-full h-px z-10">
+          <div className="absolute left-0 right-0 bottom-0 h-px z-10">
             <img alt="" className="block w-full h-full object-cover" src={imgLine6} />
           </div>
         </div>
@@ -79,7 +80,7 @@ const Sidebar: React.FC = () => {
           </Link>
           
           {/* Line6 - horizontal divider after Certifications (Line7) */}
-          <div className="absolute left-0 bottom-0 w-full h-px z-10">
+          <div className="absolute left-0 right-0 bottom-0 h-px z-10">
             <img alt="" className="block w-full h-full object-cover" src={imgLine6} />
           </div>
         </div>
@@ -137,7 +138,7 @@ const Sidebar: React.FC = () => {
             </Link>
             
             {/* Line6 - horizontal divider after Dashboard (Line8) */}
-            <div className="absolute left-0 bottom-0 w-full h-px z-10">
+            <div className="absolute left-0 right-0 bottom-0 h-px z-10">
               <img alt="" className="block w-full h-full object-cover" src={imgLine6} />
             </div>
           </div>
@@ -181,7 +182,7 @@ const Sidebar: React.FC = () => {
             </Link>
             
             {/* Line6 - horizontal divider after Dashboard (Line8) */}
-            <div className="absolute left-0 bottom-0 w-full h-px z-10">
+            <div className="absolute left-0 right-0 bottom-0 h-px z-10">
               <img alt="" className="block w-full h-full object-cover" src={imgLine6} />
             </div>
           </div>
