@@ -23,6 +23,9 @@ const Sidebar: React.FC = () => {
 
   return (
     <aside className="fixed left-0 top-0 h-screen bg-bg-dark w-sidebar transition-all duration-300 z-20 md:w-sidebar-sm lg:w-sidebar hidden md:flex flex-col relative">
+      {/* Vertical divider between sidebar and header.content */}
+      <div className="absolute right-0 top-0 bottom-0 w-px bg-[#2B3740] z-30 pointer-events-none"></div>
+      
       <div className="relative flex flex-col h-full py-6 px-4 overflow-y-auto z-0">
         {/* Logo Container */}
         <div className="mb-6 flex-shrink-0 h-12 w-12 ml-2">

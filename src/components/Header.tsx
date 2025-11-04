@@ -41,9 +41,6 @@ const Header: React.FC = () => {
         </div>
       </div>
       </div>
-      
-      {/* Horizontal divider between sidebar and header content */}
-      <div className="w-full h-px bg-[#2B3740]"></div>
     </header>
   );
 };
